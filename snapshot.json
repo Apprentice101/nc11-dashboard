@@ -1,0 +1,758 @@
+{
+  "version": "1",
+  "dataAsOf": "2026-07-09",
+  "updatedAt": "2026-07-09T19:00:00Z",
+  "exportedAt": "2026-07-09T23:28:04.656Z",
+  "districtCode": "NC-11",
+  "data": {
+    "DISTRICT": {
+      "id": "nc-11",
+      "districtNumber": "NC-11",
+      "districtName": "North Carolina's 11th Congressional District",
+      "state": "North Carolina",
+      "counties": [
+        "Avery",
+        "Buncombe",
+        "Cherokee",
+        "Clay (part - Hayesville)",
+        "Graham",
+        "Haywood",
+        "Henderson",
+        "Jackson",
+        "Macon (part - Franklin/Highlands)",
+        "Madison",
+        "McDowell",
+        "Mitchell (part - Bakersville/Spruce Pine)",
+        "Polk (part - Columbus/Saluda)",
+        "Swain",
+        "Transylvania (part/full - Brevard/Rosman)",
+        "Yancey (part - Burnsville)"
+      ],
+      "majorPlaces": [
+        "Asheville",
+        "Hendersonville",
+        "Waynesville",
+        "Brevard",
+        "Franklin"
+      ],
+      "cycleYear": 2026,
+      "population": 750000,
+      "registeredVoters": null,
+      "partyRegistration": null,
+      "previousResult": null,
+      "boundaryConfidence": "unconfirmed",
+      "electorateConfidence": "unconfirmed",
+      "newsDiscoveryHints": {
+        "geographicHint": "NC-11 spans 16 western North Carolina counties/partial-counties anchored by Buncombe County (Asheville), the district's population center, extending west to the Smoky Mountains (Cherokee, Graham, Swain) and southeast toward Henderson and Transylvania (Hendersonville, Brevard); boundaries unchanged by SB 249 / SL 2025-95.",
+        "preferredOutlets": [
+          "Blue Ridge Public Radio (BPR)",
+          "Hendersonville Lightning",
+          "Asheville Citizen Times",
+          "Carolina Public Press",
+          "NC Newsline"
+        ]
+      }
+    },
+    "SOURCES": {
+      "src-ncsbe-main": {
+        "id": "src-ncsbe-main",
+        "name": "North Carolina State Board of Elections",
+        "short": "NCSBE",
+        "url": "https://www.ncsbe.gov/",
+        "publisher": "North Carolina State Board of Elections",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed",
+        "notes": "Primary anchor for the uniform statewide 2026 election calendar administered by 100 county boards of elections."
+      },
+      "src-ncsbe-register": {
+        "id": "src-ncsbe-register",
+        "name": "NCSBE — How to Register",
+        "short": "NCSBE Register",
+        "url": "https://www.ncsbe.gov/registering/how-register",
+        "publisher": "North Carolina State Board of Elections",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed"
+      },
+      "src-ncsbe-reg-deadline-release": {
+        "id": "src-ncsbe-reg-deadline-release",
+        "name": "NCSBE — Voter Registration Deadline, November 2026 General Election",
+        "short": "NCSBE Reg Deadline Release",
+        "url": "https://www.ncsbe.gov/news/events/voter-registration-deadline-november-2026-general-election",
+        "publisher": "North Carolina State Board of Elections",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed"
+      },
+      "src-ncsbe-polling-lookup": {
+        "id": "src-ncsbe-polling-lookup",
+        "name": "NCSBE — Polling Place Lookup",
+        "short": "NCSBE Polling Lookup",
+        "url": "https://vt.ncsbe.gov/pplkup/",
+        "publisher": "North Carolina State Board of Elections",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed"
+      },
+      "src-ncsbe-reg-lookup": {
+        "id": "src-ncsbe-reg-lookup",
+        "name": "NCSBE — Voter Registration Lookup",
+        "short": "NCSBE Reg Lookup",
+        "url": "https://vt.ncsbe.gov/reglkup/",
+        "publisher": "North Carolina State Board of Elections",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed"
+      },
+      "src-ncsbe-votebymail": {
+        "id": "src-ncsbe-votebymail",
+        "name": "NCSBE — Vote By Mail / BallotTrax Tracker",
+        "short": "NCSBE VoteByMail",
+        "url": "https://votebymail.ncsbe.gov",
+        "publisher": "North Carolina State Board of Elections",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed",
+        "notes": "BallotTrax integration linked from NCSBE for absentee ballot tracking."
+      },
+      "src-ncsbe-voter-id": {
+        "id": "src-ncsbe-voter-id",
+        "name": "NCSBE — Voter ID",
+        "short": "NCSBE Voter ID",
+        "url": "https://www.ncsbe.gov/voting/voter-id",
+        "publisher": "North Carolina State Board of Elections",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed"
+      },
+      "src-ncsbe-results": {
+        "id": "src-ncsbe-results",
+        "name": "NCSBE — Election Results Portal",
+        "short": "NCSBE Results",
+        "url": "https://er.ncsbe.gov",
+        "publisher": "North Carolina State Board of Elections",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed"
+      },
+      "src-ncsbe-county-directory": {
+        "id": "src-ncsbe-county-directory",
+        "name": "NCSBE — County Board of Elections Directory",
+        "short": "NCSBE County Directory",
+        "url": "https://vt.ncsbe.gov/boeinfo/",
+        "publisher": "North Carolina State Board of Elections",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed",
+        "notes": "Aggregates contact info for all 100 NC county boards of elections, including NC-11's 16 counties/partial-counties. NEEDS REVIEW: Buncombe County (Asheville, the district's population center) merits a directly-verified phone/address entry given its dashboard importance; not independently re-fetched in this pass."
+      },
+      "src-guilford-boe": {
+        "id": "src-guilford-boe",
+        "name": "Guilford County Board of Elections — statewide canvass calendar reference",
+        "short": "Guilford Co. BOE",
+        "url": "https://www.guilfordcountync.gov/government/board-elections",
+        "publisher": "Guilford County Board of Elections",
+        "sourceType": "official-county",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed",
+        "notes": "Used as a reference for the statewide-uniform county and state canvass dates; Guilford County is not itself in NC-11 but publishes the same statutory calendar all NC counties follow."
+      },
+      "src-iredell-candidate-guide": {
+        "id": "src-iredell-candidate-guide",
+        "name": "Iredell County — 2025-26 Statewide Candidate Guide (PDF)",
+        "short": "Iredell Candidate Guide",
+        "url": "https://www.iredellcountync.gov/DocumentCenter/View/27655/2025-26-Statewide-Candidate-Guide",
+        "publisher": "Iredell County Board of Elections",
+        "sourceType": "official-county",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed",
+        "notes": "Statewide-uniform early voting, absentee request, and absentee return deadlines documented in this county-published candidate guide."
+      },
+      "src-nc-sb249-sl2025-95": {
+        "id": "src-nc-sb249-sl2025-95",
+        "name": "North Carolina Senate Bill 249 / Session Law 2025-95 (2025 redistricting)",
+        "short": "NC SB 249 / SL 2025-95",
+        "url": "https://www.ncleg.gov/Redistricting",
+        "publisher": "North Carolina General Assembly",
+        "sourceType": "statutory",
+        "hierarchyLevel": 3,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed",
+        "notes": "Enacted October 2025; altered only NC-01 and NC-03 boundaries. NC-11 boundaries left UNCHANGED. NEEDS REVIEW: the enacted plan PDF was not independently re-fetched from ncleg.gov in this pass; boundary-stability claim corroborated via news reporting on the scope of SL 2025-95."
+      },
+      "src-nc-sb747": {
+        "id": "src-nc-sb747",
+        "name": "North Carolina Senate Bill 747 (2023) — Voter ID / No Drop Boxes",
+        "short": "NC SB 747",
+        "url": "https://www.ncleg.gov/Sessions/2023/Bills/Senate/PDF/S747v9.pdf",
+        "publisher": "North Carolina General Assembly",
+        "sourceType": "statutory",
+        "hierarchyLevel": 3,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed",
+        "notes": "In effect since 2023, confirmed for 2026. Requires photo ID, bans absentee drop boxes, and eliminates the post-Election-Day mail-receipt grace period for domestic ballots."
+      },
+      "src-nc-sb656": {
+        "id": "src-nc-sb656",
+        "name": "North Carolina Senate Bill 656 (2017) — Second Primary Threshold",
+        "short": "NC SB 656",
+        "url": "https://www.ncleg.gov/Sessions/2017/Bills/Senate/PDF/S656v7.pdf",
+        "publisher": "North Carolina General Assembly",
+        "sourceType": "statutory",
+        "hierarchyLevel": 3,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed",
+        "notes": "Lowered the second-primary (runoff) trigger threshold from 40% to 30% of the vote."
+      },
+      "src-multistate-runoffs": {
+        "id": "src-multistate-runoffs",
+        "name": "MultiState — Runoffs 101",
+        "short": "MultiState Runoffs",
+        "url": "https://www.multistate.us/elections/runoffs-101",
+        "publisher": "MultiState",
+        "sourceType": "civic-nonprofit",
+        "hierarchyLevel": 5,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed"
+      },
+      "src-ballotwatch-nc": {
+        "id": "src-ballotwatch-nc",
+        "name": "ballot.watch — North Carolina state elections page",
+        "short": "ballot.watch NC",
+        "url": "https://ballot.watch/states/nc/",
+        "publisher": "ballot.watch",
+        "sourceType": "civic-nonprofit",
+        "hierarchyLevel": 5,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed"
+      },
+      "src-bpr-primary": {
+        "id": "src-bpr-primary",
+        "name": "Blue Ridge Public Radio — Democrats choose Ager in NC-11 primary; Edwards wins GOP nod",
+        "short": "BPR Primary",
+        "url": "https://www.bpr.org/politics-government/2026-03-03/democrats-choose-ager-in-nc-11-primary-race-edwards-wins-gop-nod",
+        "publisher": "Blue Ridge Public Radio (BPR)",
+        "sourceType": "news",
+        "hierarchyLevel": 6,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed"
+      },
+      "src-bpr-tossup": {
+        "id": "src-bpr-tossup",
+        "name": "Blue Ridge Public Radio — Edwards vs. Ager: 11th District contest could be toss-up by November, experts say",
+        "short": "BPR Toss-up Analysis",
+        "url": "https://www.bpr.org/politics-government/2026-07-02/edwards-vs-ager-11th-district-contest-could-be-toss-up-by-november-experts-say",
+        "publisher": "Blue Ridge Public Radio (BPR)",
+        "sourceType": "news",
+        "hierarchyLevel": 6,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed",
+        "notes": "NEEDS REVIEW: 'toss-up' characterization is a single-outlet analyst commentary; treat as contextual political framing, not an authoritative forecast."
+      },
+      "src-hendersonville-lightning": {
+        "id": "src-hendersonville-lightning",
+        "name": "Hendersonville Lightning — Edwards, Ager wins set up closely watched battle for 11th District seat",
+        "short": "Hendersonville Lightning",
+        "url": "https://www.hendersonvillelightning.com/news/15871-edwards-ager-wins-set-up-closely-watched-battle-for-11th-district-seat.html",
+        "publisher": "Hendersonville Lightning",
+        "sourceType": "news",
+        "hierarchyLevel": 6,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed"
+      },
+      "src-wikipedia-nc11": {
+        "id": "src-wikipedia-nc11",
+        "name": "Wikipedia — North Carolina's 11th congressional district",
+        "short": "Wikipedia NC-11",
+        "url": "https://en.wikipedia.org/wiki/North_Carolina%27s_11th_congressional_district",
+        "publisher": "Wikipedia",
+        "sourceType": "secondary",
+        "hierarchyLevel": 7,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed",
+        "notes": "Used only for county-list corroboration, not as sole source."
+      }
+    },
+    "ELECTION_EVENTS": [
+      {
+        "id": "evt-nc11-primary-day",
+        "milestone": "Primary election day (completed)",
+        "electionType": "primary",
+        "date": "2026-03-03",
+        "significance": "North Carolina's 2026 statewide primary. Chuck Edwards (R, inc.) won the GOP primary with roughly 70% over Adam Smith; Jamie Ager (D) won a 5-way Democratic primary with roughly 65% over Richard Hudspeth, Chris Harjes, Zelda Briarwood, and Morris 'Moe' Davis. Polls open 6:30 a.m.-7:30 p.m.",
+        "governingAuthority": "North Carolina State Board of Elections",
+        "sourceIds": [
+          "src-ncsbe-main",
+          "src-bpr-primary"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-nc11-second-primary-window",
+        "milestone": "Second primary (runoff) — not triggered",
+        "electionType": "primary",
+        "date": "2026-05-12",
+        "significance": "A second (runoff) primary is triggered only if the leading primary candidate receives less than 30% of the vote (lowered from 40% by SB 656 in 2017), and only if requested by the second-place finisher within 9 days of the primary. Not triggered in NC-11: both Edwards (~70%) and Ager (65%) cleared the threshold comfortably in their respective primaries.",
+        "governingAuthority": "North Carolina State Board of Elections",
+        "sourceIds": [
+          "src-nc-sb656",
+          "src-multistate-runoffs"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-nc11-general-reg-deadline",
+        "milestone": "Voter registration deadline — general",
+        "electionType": "general",
+        "date": "2026-10-09",
+        "significance": "Last day to register online or by mail for the November 3, 2026 general election, 5:00 p.m. (25 days before Election Day). Same-day registration remains available in person during the early-voting window.",
+        "governingAuthority": "North Carolina State Board of Elections",
+        "sourceIds": [
+          "src-ncsbe-reg-deadline-release",
+          "src-ncsbe-register"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-nc11-general-early-voting-open",
+        "milestone": "Early voting (One-Stop) opens — general",
+        "electionType": "general",
+        "date": "2026-10-15",
+        "significance": "Early in-person voting begins statewide, including all NC-11 counties. Same-day voter registration is available in person during this window for voters who missed the standard registration deadline (they must provide proof of residence).",
+        "governingAuthority": "North Carolina State Board of Elections",
+        "sourceIds": [
+          "src-iredell-candidate-guide"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-nc11-general-absentee-request-deadline",
+        "milestone": "Absentee ballot request deadline — general",
+        "electionType": "general",
+        "date": "2026-10-20",
+        "significance": "Deadline to submit a mail absentee ballot request for the November 3, 2026 general election, 5:00 p.m.",
+        "governingAuthority": "North Carolina State Board of Elections",
+        "sourceIds": [
+          "src-iredell-candidate-guide"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-nc11-general-early-voting-close",
+        "milestone": "Early voting (One-Stop) closes — general",
+        "electionType": "general",
+        "date": "2026-10-31",
+        "significance": "Last day of early in-person voting, closing at 3:00 p.m. on the final Saturday before Election Day.",
+        "governingAuthority": "North Carolina State Board of Elections",
+        "sourceIds": [
+          "src-iredell-candidate-guide"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-nc11-general-day",
+        "milestone": "General election day",
+        "electionType": "general",
+        "date": "2026-11-03",
+        "significance": "U.S. midterm general election. NC-11: Chuck Edwards (R, inc.) vs. Jamie Ager (D). Polls open 6:30 a.m.-7:30 p.m. NC-11's boundaries were unchanged by SB 249 / SL 2025-95 (Oct. 2025), unlike neighboring NC-01 and NC-03. A July 2, 2026 BPR analysis characterized the race as a potential toss-up despite Edwards' incumbency; this is political framing, not a procedural fact.",
+        "governingAuthority": "North Carolina State Board of Elections",
+        "sourceIds": [
+          "src-ncsbe-main",
+          "src-bpr-tossup",
+          "src-hendersonville-lightning"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-nc11-general-absentee-return-deadline",
+        "milestone": "Absentee ballot return deadline — general",
+        "electionType": "general",
+        "date": "2026-11-03",
+        "significance": "Absentee ballots must be received (not merely postmarked) by the county board of elections by 7:30 p.m. on Election Day. North Carolina eliminated its post-Election-Day mail-receipt grace period for domestic ballots under SB 747 (2023); UOCAVA (military/overseas) ballots retain a longer receipt window.",
+        "governingAuthority": "North Carolina State Board of Elections",
+        "sourceIds": [
+          "src-iredell-candidate-guide",
+          "src-nc-sb747"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-nc11-id-cure-deadline",
+        "milestone": "Provisional ballot ID-cure deadline",
+        "electionType": "general",
+        "date": "2026-11-12",
+        "significance": "Voters who cast a provisional ballot due to lacking accepted photo ID must cure it — by providing ID or completing an ID Exception Form — by noon on the day before the county canvass (noon, Nov. 12, 2026, ahead of the Nov. 13 canvass).",
+        "governingAuthority": "County boards of elections",
+        "sourceIds": [
+          "src-nc-sb747"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-nc11-county-canvass",
+        "milestone": "County canvass",
+        "electionType": "general",
+        "date": "2026-11-13",
+        "significance": "County boards of elections meet at 11:00 a.m. to canvass and certify county-level results, including provisional and cured ballots.",
+        "governingAuthority": "County boards of elections",
+        "sourceIds": [
+          "src-guilford-boe"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-nc11-state-canvass",
+        "milestone": "State canvass (certification)",
+        "electionType": "general",
+        "date": "2026-11-24",
+        "significance": "The North Carolina State Board of Elections meets at 11:00 a.m. to certify final statewide results, including the NC-11 general election outcome.",
+        "governingAuthority": "North Carolina State Board of Elections",
+        "sourceIds": [
+          "src-guilford-boe"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "status": "estimated"
+      }
+    ],
+    "RULES": [
+      {
+        "id": "rule-nc-photo-id",
+        "topic": "Voter photo ID requirements (SB 747)",
+        "currentRule": "Photo ID is required to vote in person and by mail, per SB 747 (2023), in effect since 2023 and confirmed for 2026. Accepted forms: NC driver's license or non-driver ID, another state's driver's license (if registered to vote within 90 days of the election), U.S. passport, military/veteran ID, tribal enrollment card, an NCSBE-approved student or employee ID, or a free NC voter photo ID from the county board of elections. A voter without acceptable ID casts a provisional ballot and must cure it by providing ID or completing an ID Exception Form by noon on the day before the county canvass.",
+        "status": "active",
+        "whyItMatters": "NC-11 voters across all 16 counties/partial-counties must present qualifying photo ID at the polls or with their absentee ballot. Voters lacking ID have a narrow but workable cure window (through noon on Nov. 12, 2026 for the general election) to avoid having their provisional ballot rejected.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-nc-sb747",
+          "src-ncsbe-voter-id"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "needsReview": true,
+        "detail": "SB 747 (2023). Cure deadline: noon on the day before county canvass (noon Nov. 12, 2026, ahead of the Nov. 13 canvass). Identical statewide rule as NC-01/NC-03."
+      },
+      {
+        "id": "rule-nc-no-drop-boxes",
+        "topic": "No absentee ballot drop boxes (SB 747)",
+        "currentRule": "North Carolina does not allow absentee ballot drop boxes. SB 747 (2023) explicitly bans them statewide; ballots must be returned by mail or in person to the county board of elections office.",
+        "status": "active",
+        "whyItMatters": "NC-11 voters cannot rely on a drop box network for absentee ballot return, unlike some other states. Ballots must be mailed (allowing enough time to be received by the deadline) or delivered in person to the county board of elections office.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-nc-sb747"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "needsReview": true,
+        "detail": "SB 747 (2023). Confirmed by multiple county board-of-elections sources per research; no dedicated NC-11 drop-box resource tile exists as a result."
+      },
+      {
+        "id": "rule-nc-absentee-receipt-no-grace-period",
+        "topic": "Absentee ballot receipt deadline — no postmark grace period (SB 747)",
+        "currentRule": "Absentee ballots must be received (not merely postmarked) by the county board of elections by 7:30 p.m. on Election Day (Nov. 3, 2026). SB 747 (2023) eliminated North Carolina's post-Election-Day mail-receipt grace period for domestic ballots; UOCAVA (military/overseas) ballots retain a longer receipt window.",
+        "status": "active",
+        "whyItMatters": "NC-11 voters mailing an absentee ballot must ensure it physically arrives by 7:30 p.m. on Election Day — a postmark on or before Election Day is not sufficient for domestic ballots. Voters mailing close to Election Day should consider in-person return instead.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-nc-sb747",
+          "src-iredell-candidate-guide"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "needsReview": true,
+        "detail": "SB 747 (2023). Applies statewide, including all NC-11 counties."
+      },
+      {
+        "id": "rule-nc-second-primary-threshold",
+        "topic": "Second primary (runoff) threshold (SB 656)",
+        "currentRule": "Since SB 656 (2017), a second (runoff) primary is triggered only if the leading primary candidate receives less than 30% of the vote (previously 40%), and only if requested by the second-place finisher within 9 days of the primary. Not triggered in NC-11's 2026 primaries — Edwards won with roughly 70% and Ager with roughly 65%, both comfortably above the threshold.",
+        "status": "active",
+        "whyItMatters": "NC-11's Republican and Democratic primaries each produced a clear nominee without a runoff. This rule is relevant background for understanding how NC-11's general-election matchup (Edwards vs. Ager) was finalized.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-nc-sb656",
+          "src-multistate-runoffs"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "needsReview": true,
+        "detail": "SB 656 (2017). NEEDS REVIEW: exact hour-of-day for the second-primary request deadline (9 days after the March 3 primary) was described generally per MultiState and not independently re-confirmed against NCSBE's own second-primary procedures page."
+      },
+      {
+        "id": "rule-nc11-redistricting-stability",
+        "topic": "NC-11 congressional map — unchanged by SB 249 / SL 2025-95",
+        "currentRule": "North Carolina's congressional map was redrawn via SB 249 / Session Law 2025-95, enacted October 2025, but this act altered only NC-01 and NC-03 boundaries. NC-11's boundaries were left UNCHANGED and retain the same western North Carolina footprint used in the 2022 and 2024 elections. There is no known pending litigation affecting NC-11's map for 2026.",
+        "status": "active",
+        "whyItMatters": "Unlike NC-01 and NC-03, NC-11 voters are not affected by new district lines for the 2026 cycle — this reduces boundary-confusion risk for the dashboard's western NC users, though partial-county precinct lines (Clay, Macon, Mitchell, Polk, Transylvania, Yancey) still warrant confirmation via the NCSBE polling lookup tool.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-nc-sb249-sl2025-95",
+          "src-wikipedia-nc11"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "needsReview": true,
+        "detail": "NEEDS REVIEW: the enacted SL 2025-95 plan PDF was not independently re-fetched from ncleg.gov in this pass; the unchanged-for-NC-11 claim is corroborated via news reporting naming only NC-01/NC-03 as altered districts. Clay, Macon, Mitchell, Polk, Transylvania, and Yancey partial-county split-boundary details were confirmed as partial via Wikipedia only, not an NCSBE/county GIS source."
+      },
+      {
+        "id": "rule-nc-same-day-registration-early-voting",
+        "topic": "Same-day registration during early voting only",
+        "currentRule": "North Carolina allows same-day voter registration only during the early-voting (One-Stop) period, from Oct. 15 through Oct. 31, 2026, for the general election. Voters must provide proof of residence. Standard online/mail registration closes 25 days before Election Day (Oct. 9, 2026, 5:00 p.m.); there is no same-day registration on Election Day itself at Election Day precincts.",
+        "status": "active",
+        "whyItMatters": "NC-11 voters who miss the Oct. 9 registration deadline have a narrower path than in some other states: they can still register and vote during the Oct. 15-31 early-voting window with proof of residence, but not on Election Day itself.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-ncsbe-reg-deadline-release",
+          "src-iredell-candidate-guide"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "needsReview": true,
+        "detail": "NEEDS REVIEW: this rule reflects the same statewide procedure verified for NC-01/NC-03; the underlying NCSBE same-day registration procedure page was not independently re-fetched in this pass to confirm the exact proof-of-residence document list."
+      }
+    ],
+    "RESOURCES": [
+      {
+        "id": "res-register",
+        "label": "Register to vote",
+        "description": "Official North Carolina voter registration guide: eligibility, deadlines, and how to register online, by mail, or in person during early voting.",
+        "url": "https://www.ncsbe.gov/registering/how-register",
+        "governingAuthority": "North Carolina State Board of Elections",
+        "sourceType": "official-state",
+        "sourceId": "src-ncsbe-register",
+        "lastVerified": "2026-07-09"
+      },
+      {
+        "id": "res-locations",
+        "label": "Find voting locations",
+        "description": "Official North Carolina polling place lookup tool, including Election Day precincts and early-voting (One-Stop) sites.",
+        "url": "https://vt.ncsbe.gov/pplkup/",
+        "governingAuthority": "North Carolina State Board of Elections",
+        "sourceType": "official-state",
+        "sourceId": "src-ncsbe-polling-lookup",
+        "lastVerified": "2026-07-09"
+      },
+      {
+        "id": "res-ballot-box",
+        "label": "Find ballot boxes",
+        "description": "North Carolina does not allow absentee ballot drop boxes. SB 747 (2023) bans them statewide; ballots must be returned by mail or in person to the county board of elections office. Use the county directory to find your NC-11 county's office.",
+        "url": "https://vt.ncsbe.gov/boeinfo/",
+        "governingAuthority": "North Carolina State Board of Elections (statutory prohibition); county boards of elections (in-person return locations)",
+        "sourceType": "official-state",
+        "sourceId": "src-ncsbe-county-directory",
+        "lastVerified": "2026-07-09"
+      },
+      {
+        "id": "res-check-reg",
+        "label": "Check registration status",
+        "description": "Official North Carolina voter registration lookup tool — confirm your registration status and voting history.",
+        "url": "https://vt.ncsbe.gov/reglkup/",
+        "governingAuthority": "North Carolina State Board of Elections",
+        "sourceType": "official-state",
+        "sourceId": "src-ncsbe-reg-lookup",
+        "lastVerified": "2026-07-09"
+      },
+      {
+        "id": "res-track",
+        "label": "Track your ballot",
+        "description": "Official North Carolina absentee ballot tracker (BallotTrax integration) — check when your mail ballot was sent, received, and accepted.",
+        "url": "https://votebymail.ncsbe.gov",
+        "governingAuthority": "North Carolina State Board of Elections",
+        "sourceType": "official-state",
+        "sourceId": "src-ncsbe-votebymail",
+        "lastVerified": "2026-07-09"
+      },
+      {
+        "id": "res-verify",
+        "label": "Voter ID information",
+        "description": "Official North Carolina guide to voter ID requirements at the polls and with absentee ballots, including accepted ID types and the provisional-ballot cure process.",
+        "url": "https://www.ncsbe.gov/voting/voter-id",
+        "governingAuthority": "North Carolina State Board of Elections",
+        "sourceType": "official-state",
+        "sourceId": "src-ncsbe-voter-id",
+        "lastVerified": "2026-07-09"
+      },
+      {
+        "id": "res-results",
+        "label": "Election results",
+        "description": "Official North Carolina State Board of Elections results portal.",
+        "url": "https://er.ncsbe.gov",
+        "governingAuthority": "North Carolina State Board of Elections",
+        "sourceType": "official-state",
+        "sourceId": "src-ncsbe-results",
+        "lastVerified": "2026-07-09"
+      },
+      {
+        "id": "res-nc11-county-directory",
+        "label": "NC-11 county board of elections directory",
+        "description": "Official statewide directory of all 100 North Carolina county boards of elections, including contact information for NC-11's 16 counties/partial-counties. NEEDS REVIEW: individual county phone/address entries were not itemized in this research pass; Buncombe County (Asheville) merits a directly-verified entry given its dashboard importance.",
+        "url": "https://vt.ncsbe.gov/boeinfo/",
+        "governingAuthority": "North Carolina State Board of Elections",
+        "sourceType": "official-state",
+        "sourceId": "src-ncsbe-county-directory",
+        "lastVerified": "2026-07-09"
+      }
+    ],
+    "UPDATES": [
+      {
+        "id": "upd-nc11-001",
+        "title": "NC-11 dashboard initialized from wa-03 template — 19 sources, 11 events, 6 rules wired",
+        "fieldChanged": "Dashboard configuration",
+        "oldValue": "Not configured",
+        "newValue": "Initial build July 9, 2026, cloned from the WA-03 template structure. All 19 sources (NCSBE main/register/polling-lookup/reg-lookup/vote-by-mail/voter-ID/results/county-directory, Guilford and Iredell county elections, SB 249/SL 2025-95, SB 747, SB 656, MultiState, ballot.watch, BPR x2, Hendersonville Lightning, Wikipedia) recorded from primary-source research. All 11 election events and 6 voting rules researched from NCSBE and statutory sources, but all marked needsReview/unconfirmed pending human QA. Candidates: Chuck Edwards (R, inc.) vs. Jamie Ager (D).",
+        "sourceIds": [
+          "src-ncsbe-main",
+          "src-bpr-primary"
+        ],
+        "detectedAt": "2026-07-09T18:00:00Z",
+        "severity": "low",
+        "reviewState": "new",
+        "visibility": "internal_only"
+      },
+      {
+        "id": "upd-nc11-002",
+        "title": "SB 249 / SL 2025-95 left NC-11 boundaries unchanged, unlike NC-01/NC-03",
+        "fieldChanged": "District boundaries",
+        "oldValue": "NC-11 boundaries as used in the 2022/2024 elections.",
+        "newValue": "SB 249 / Session Law 2025-95 (enacted October 2025) redrew only NC-01 and NC-03 boundaries; NC-11 retains the same western North Carolina footprint used in the 2022 and 2024 elections. No known pending litigation affects NC-11's map for the November 3, 2026 general election.",
+        "sourceIds": [
+          "src-nc-sb249-sl2025-95",
+          "src-wikipedia-nc11"
+        ],
+        "detectedAt": "2026-07-09T18:00:00Z",
+        "severity": "medium",
+        "reviewState": "new",
+        "visibility": "public"
+      },
+      {
+        "id": "upd-nc11-003",
+        "title": "All rules and events flagged for county-level and legislative-text verification",
+        "fieldChanged": "QA status",
+        "oldValue": "Not yet reviewed",
+        "newValue": "6 voting rules and 11 election events all marked needsReview: true, confidence: unconfirmed (lastVerified 2026-07-09). Verify individual NC-11 county board-of-elections contact details (especially Buncombe County) against vt.ncsbe.gov/boeinfo/, confirm the enacted SL 2025-95 plan PDF directly from ncleg.gov, and check the NCSBE certified general-election candidate list for any late-qualifying third-party candidate.",
+        "sourceIds": [
+          "src-ncsbe-county-directory",
+          "src-nc-sb249-sl2025-95"
+        ],
+        "detectedAt": "2026-07-09T18:00:00Z",
+        "severity": "medium",
+        "reviewState": "new",
+        "visibility": "internal_only"
+      }
+    ],
+    "CONFLICTS": [],
+    "NEWS": [
+      {
+        "id": "news-nc11-001",
+        "headline": "Democrats choose Ager in NC-11 primary; Edwards wins GOP nod",
+        "sourceName": "Blue Ridge Public Radio (BPR)",
+        "url": "https://www.bpr.org/politics-government/2026-03-03/democrats-choose-ager-in-nc-11-primary-race-edwards-wins-gop-nod",
+        "publishedAt": "2026-03-03",
+        "relevanceSummary": "Reports Chuck Edwards' GOP primary win (~70%) and Jamie Ager's 5-way Democratic primary win (65%), setting up the NC-11 general-election matchup.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-002",
+        "headline": "Edwards, Ager wins set up closely watched battle for 11th District seat",
+        "sourceName": "Hendersonville Lightning",
+        "url": "https://www.hendersonvillelightning.com/news/15871-edwards-ager-wins-set-up-closely-watched-battle-for-11th-district-seat.html",
+        "publishedAt": "2026-03-04",
+        "relevanceSummary": "Local coverage of the NC-11 primary outcomes and the framing of the general election as closely watched.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-003",
+        "headline": "Edwards vs. Ager: 11th District contest could be toss-up by November, experts say",
+        "sourceName": "Blue Ridge Public Radio (BPR)",
+        "url": "https://www.bpr.org/politics-government/2026-07-02/edwards-vs-ager-11th-district-contest-could-be-toss-up-by-november-experts-say",
+        "publishedAt": "2026-07-02",
+        "relevanceSummary": "Political analysts characterize NC-11 as a potential toss-up despite Edwards' incumbency. NEEDS REVIEW: this is a single-outlet analyst characterization — contextual/political framing, not an authoritative forecast or procedural fact.",
+        "tag": "administration",
+        "reviewState": "new"
+      }
+    ],
+    "LAST_REFRESH": {
+      "id": "run-2026-07-09-nc11-initial-build",
+      "startedAt": "2026-07-09T18:00:00Z",
+      "completedAt": "2026-07-09T19:00:00Z",
+      "triggerType": "manual",
+      "sourcesChecked": 19,
+      "updatesCreated": 0,
+      "conflictsCreated": 0,
+      "errors": [],
+      "summary": "Initial WA-03-cloned build for NC-11, populated from primary-source research (NCSBE, SB 249/SL 2025-95, SB 747, SB 656, Guilford/Iredell county elections, and dated news reporting). All election events and voting rules remain marked needsReview: true and confidence: unconfirmed pending human QA, including confirmation of individual county contact details (especially Buncombe) and the enacted redistricting plan PDF."
+    },
+    "NEXT_REFRESH_AT": "2026-07-16T18:00:00Z",
+    "WEEKLY_REPORT": {
+      "id": "wr-nc11-2026-w28",
+      "periodStart": "2026-07-09",
+      "periodEnd": "2026-07-09",
+      "sourcesChecked": 19,
+      "newUpdates": 3,
+      "conflictsCreated": 0,
+      "conflictsResolved": 0,
+      "deadlinesChanged": 0,
+      "rulesChanged": 0,
+      "newsItems": 3,
+      "needsReview": 17,
+      "sourceErrors": 0,
+      "summary": "Initial build for NC-11, cloned from the WA-03 dashboard template ahead of the November 3, 2026 general election. Chuck Edwards (R, inc.) won the GOP primary with roughly 70%; Jamie Ager (D) won a 5-way Democratic primary with roughly 65% — neither triggered a second primary (30% threshold under SB 656). Unlike neighboring NC-01 and NC-03, NC-11's boundaries were unchanged by SB 249 / SL 2025-95 (Oct. 2025). Statewide-uniform general-election calendar: registration deadline Oct 9, early voting Oct 15-31 (with same-day registration only during this window), absentee request deadline Oct 20, Election Day Nov 3 (7:30 p.m. absentee receipt deadline, no postmark grace period per SB 747), ID-cure deadline noon Nov 12, county canvass Nov 13, state canvass Nov 24. North Carolina bans absentee drop boxes statewide (SB 747). A July 2, 2026 BPR analysis flagged NC-11 as a potential toss-up race, noted here as political framing rather than a procedural fact. All 19 sources verified as of July 9, 2026. All events and rules flagged needsReview pending county-specific (especially Buncombe) and legislative-text confirmation.",
+      "generatedAt": "2026-07-09T18:00:00Z"
+    }
+  }
+}
