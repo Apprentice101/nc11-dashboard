@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-09",
-  "updatedAt": "2026-07-09T19:00:00Z",
-  "exportedAt": "2026-07-10T21:03:05.848Z",
+  "dataAsOf": "2026-07-10",
+  "updatedAt": "2026-07-10T21:45:23.256Z",
+  "exportedAt": "2026-07-10T21:47:26.983Z",
   "districtCode": "NC-11",
   "data": {
     "DISTRICT": {
@@ -88,7 +88,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-09",
+        "lastVerified": "2026-07-10",
         "confidence": "unconfirmed"
       },
       "src-ncsbe-polling-lookup": {
@@ -137,7 +137,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-09",
+        "lastVerified": "2026-07-10",
         "confidence": "unconfirmed"
       },
       "src-ncsbe-results": {
@@ -200,7 +200,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-09",
+        "lastVerified": "2026-07-10",
         "confidence": "unconfirmed",
         "notes": "Enacted October 2025; altered only NC-01 and NC-03 boundaries. NC-11 boundaries left UNCHANGED. NEEDS REVIEW: the enacted plan PDF was not independently re-fetched from ncleg.gov in this pass; boundary-stability claim corroborated via news reporting on the scope of SL 2025-95."
       },
@@ -213,7 +213,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-09",
+        "lastVerified": "2026-07-10",
         "confidence": "unconfirmed",
         "notes": "In effect since 2023, confirmed for 2026. Requires photo ID, bans absentee drop boxes, and eliminates the post-Election-Day mail-receipt grace period for domestic ballots."
       },
@@ -226,7 +226,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-09",
+        "lastVerified": "2026-07-10",
         "confidence": "unconfirmed",
         "notes": "Lowered the second-primary (runoff) trigger threshold from 40% to 30% of the vote."
       },
@@ -727,17 +727,17 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-09-nc11-initial-build",
-      "startedAt": "2026-07-09T18:00:00Z",
-      "completedAt": "2026-07-09T19:00:00Z",
-      "triggerType": "manual",
-      "sourcesChecked": 19,
+      "id": "run-2026-07-10-nc11-auto",
+      "startedAt": "2026-07-10T21:45:04.926Z",
+      "completedAt": "2026-07-10T21:45:23.256Z",
+      "triggerType": "scheduled",
+      "sourcesChecked": 7,
       "updatesCreated": 0,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Initial WA-03-cloned build for NC-11, populated from primary-source research (NCSBE, SB 249/SL 2025-95, SB 747, SB 656, Guilford/Iredell county elections, and dated news reporting). All election events and voting rules remain marked needsReview: true and confidence: unconfirmed pending human QA, including confirmation of individual county contact details (especially Buncombe) and the enacted redistricting plan PDF."
+      "summary": "Automated refresh completed 2026-07-10 for NC-11. Sources checked: 7. LLM verifications: 6. 5 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-07-16T18:00:00Z",
+    "NEXT_REFRESH_AT": "2026-07-17T21:45:23.256Z",
     "WEEKLY_REPORT": {
       "id": "wr-nc11-2026-w28",
       "periodStart": "2026-07-09",
