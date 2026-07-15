@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-10",
-  "updatedAt": "2026-07-10T21:45:23.256Z",
-  "exportedAt": "2026-07-10T21:47:26.983Z",
+  "dataAsOf": "2026-07-15",
+  "updatedAt": "2026-07-15T06:25:38.803Z",
+  "exportedAt": "2026-07-15T06:40:25.197Z",
   "districtCode": "NC-11",
   "data": {
     "DISTRICT": {
@@ -88,7 +88,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-10",
+        "lastVerified": "2026-07-15",
         "confidence": "unconfirmed"
       },
       "src-ncsbe-polling-lookup": {
@@ -137,7 +137,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-10",
+        "lastVerified": "2026-07-15",
         "confidence": "unconfirmed"
       },
       "src-ncsbe-results": {
@@ -200,7 +200,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-10",
+        "lastVerified": "2026-07-15",
         "confidence": "unconfirmed",
         "notes": "Enacted October 2025; altered only NC-01 and NC-03 boundaries. NC-11 boundaries left UNCHANGED. NEEDS REVIEW: the enacted plan PDF was not independently re-fetched from ncleg.gov in this pass; boundary-stability claim corroborated via news reporting on the scope of SL 2025-95."
       },
@@ -213,7 +213,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-10",
+        "lastVerified": "2026-07-15",
         "confidence": "unconfirmed",
         "notes": "In effect since 2023, confirmed for 2026. Requires photo ID, bans absentee drop boxes, and eliminates the post-Election-Day mail-receipt grace period for domestic ballots."
       },
@@ -724,20 +724,60 @@
         "relevanceSummary": "Political analysts characterize NC-11 as a potential toss-up despite Edwards' incumbency. NEEDS REVIEW: this is a single-outlet analyst characterization — contextual/political framing, not an authoritative forecast or procedural fact.",
         "tag": "administration",
         "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-0a8gze9",
+        "headline": "NC House passes sweeping elections bill with auditor powers, ballot challenges",
+        "sourceName": "The Herald-Sun",
+        "url": "https://www.heraldsun.com/news/politics-government/article316327060.html",
+        "publishedAt": "2026-07-03",
+        "relevanceSummary": "North Carolina’s House passed House Bill 958, which would expand ballot challenges, lengthen some cure deadlines, and increase state oversight of county election boards. Those changes would apply to NC-11 voters because they affect statewide ballot handling, voter-registration corrections, and election audits in all counties.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-0pyopg0",
+        "headline": "‘Chasing ghosts': NC House approves elections bill expanding state oversight",
+        "sourceName": "Port City Daily",
+        "url": "https://portcitydaily.com/latest-news/2026/07/01/chasing-ghosts-nc-house-approves-elections-bill-expanding-state-oversight/",
+        "publishedAt": "2026-07-01",
+        "relevanceSummary": "This report says House Bill 958 would give state officials more power over county election boards, require more extensive ballot review, and extend deadlines for curing absentee and provisional ballot issues. That matters to NC-11 voters because it changes how ballots are checked and corrected across North Carolina.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-04w401i",
+        "headline": "NC's 11th District could shape the 2026 Democratic wave",
+        "sourceName": "The News & Observer",
+        "url": "https://www.newsobserver.com/news/politics-government/election/article316216252.html",
+        "publishedAt": "2026-06-28",
+        "relevanceSummary": "The article is specifically about NC-11 and notes the district’s general-election matchup, making it relevant for voters tracking who will appear on the ballot. It is less procedural than the other items, but it still helps voters understand the district race they may vote in.",
+        "tag": "candidates",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-0lxoyo8",
+        "headline": "Sweeping election law bill passes key NC House committee, but more changes possible",
+        "sourceName": "WRAL",
+        "url": "https://www.wral.com/news/nccapitol/election-law-changes-house-rules-committee-june-2026/",
+        "publishedAt": "2026-06-25",
+        "relevanceSummary": "WRAL reports that a sweeping election-law bill advanced through a key House committee and would affect ballot counting, provisional-ballot procedures, campaign finance reporting, and county election-board conduct. Because NC-11 voters are also North Carolina voters, any statewide procedural change would directly affect how elections are run in their district.",
+        "tag": "rule-change",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-10-nc11-auto",
-      "startedAt": "2026-07-10T21:45:04.926Z",
-      "completedAt": "2026-07-10T21:45:23.256Z",
+      "id": "run-2026-07-15-nc11-auto",
+      "startedAt": "2026-07-15T06:25:17.742Z",
+      "completedAt": "2026-07-15T06:25:38.803Z",
       "triggerType": "scheduled",
       "sourcesChecked": 7,
-      "updatesCreated": 0,
+      "updatesCreated": 4,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-10 for NC-11. Sources checked: 7. LLM verifications: 6. 5 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-07-15 for NC-11. Sources checked: 7. LLM verifications: 6. 4 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-07-17T21:45:23.256Z",
+    "NEXT_REFRESH_AT": "2026-07-22T06:25:38.803Z",
     "WEEKLY_REPORT": {
       "id": "wr-nc11-2026-w28",
       "periodStart": "2026-07-09",
