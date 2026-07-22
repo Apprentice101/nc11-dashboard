@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-15",
-  "updatedAt": "2026-07-15T06:25:38.803Z",
-  "exportedAt": "2026-07-15T06:40:25.197Z",
+  "dataAsOf": "2026-07-22",
+  "updatedAt": "2026-07-22T06:37:03.507Z",
+  "exportedAt": "2026-07-22T06:51:53.288Z",
   "districtCode": "NC-11",
   "data": {
     "DISTRICT": {
@@ -88,7 +88,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-15",
+        "lastVerified": "2026-07-22",
         "confidence": "unconfirmed"
       },
       "src-ncsbe-polling-lookup": {
@@ -137,7 +137,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-15",
+        "lastVerified": "2026-07-22",
         "confidence": "unconfirmed"
       },
       "src-ncsbe-results": {
@@ -200,7 +200,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-15",
+        "lastVerified": "2026-07-22",
         "confidence": "unconfirmed",
         "notes": "Enacted October 2025; altered only NC-01 and NC-03 boundaries. NC-11 boundaries left UNCHANGED. NEEDS REVIEW: the enacted plan PDF was not independently re-fetched from ncleg.gov in this pass; boundary-stability claim corroborated via news reporting on the scope of SL 2025-95."
       },
@@ -213,7 +213,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-15",
+        "lastVerified": "2026-07-22",
         "confidence": "unconfirmed",
         "notes": "In effect since 2023, confirmed for 2026. Requires photo ID, bans absentee drop boxes, and eliminates the post-Election-Day mail-receipt grace period for domestic ballots."
       },
@@ -764,20 +764,90 @@
         "relevanceSummary": "WRAL reports that a sweeping election-law bill advanced through a key House committee and would affect ballot counting, provisional-ballot procedures, campaign finance reporting, and county election-board conduct. Because NC-11 voters are also North Carolina voters, any statewide procedural change would directly affect how elections are run in their district.",
         "tag": "rule-change",
         "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-0a862z9",
+        "headline": "North Carolina election board again makes it harder to vote by mail",
+        "sourceName": "Democracy Docket",
+        "url": "https://www.democracydocket.com/news-alerts/north-carolina-election-board-again-makes-it-harder-to-vote-by-mail/",
+        "publishedAt": "2026-07-22",
+        "relevanceSummary": "Democracy Docket reports that the GOP-controlled State Board of Elections approved new permanent rules requiring voters to submit written attestations to fix several mail-ballot envelope irregularities that were previously cured automatically, increasing the risk that NC‑11 voters’ mail ballots could be rejected if they do not respond.[1]",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-0lfhl3c",
+        "headline": "2026 election; changes in the NC State Auditor’s office; new ballot rules | State Lines",
+        "sourceName": "YouTube – State Lines / PBS North Carolina",
+        "url": "https://www.youtube.com/watch?v=XU7S-YbRPPc",
+        "publishedAt": "2026-07-19",
+        "relevanceSummary": "In this State Lines public-affairs segment, panelists discuss the new State Board rule allowing county election boards to reject reasonable-impediment affidavits for lack of photo ID by simple majority, clarifying how the changed standard could affect voters who appear without ID in upcoming elections across North Carolina, including NC‑11.[5]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-0edbn7d",
+        "headline": "Elecciones en Carolina del Norte: Junta Estatal aprueba cambios en boletas provisionales y restricciones al sonido",
+        "sourceName": "Enlace Latino NC",
+        "url": "https://enlacelatinonc.org/elecciones-en-carolina-del-norte-junta-estatal-aprueba-cambios-en-boletas-provisionales-y-restricciones-al-sonido/",
+        "publishedAt": "2026-07-18",
+        "relevanceSummary": "Enlace Latino NC explains that the State Board removed the requirement for county boards to be unanimous in rejecting provisional ballots lacking photo ID and adopted restrictions on amplified sound near polling places, both of which will shape how provisional votes and polling-place environments are handled for NC‑11 voters.[2]",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-0xnq43a",
+        "headline": "North Carolina Elections Board Votes to Require Only a Majority, Not Unanimity, to Reject Voter Photo-ID Exception Affidavits",
+        "sourceName": "Pressure of Truth",
+        "url": "https://www.pressureoftruth.com/story/nc-elections-board-photo-id-rule-change.html",
+        "publishedAt": "2026-07-18",
+        "relevanceSummary": "This article details the July 16 decision by the North Carolina State Board of Elections to amend rules so a county board needs only a simple majority, not unanimity, to reject a voter's photo-ID exception affidavit for both in‑person and absentee‑by‑mail voting, changing how NC‑11 voters’ ballots can be rejected if they lack ID.[4]",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-0twvwm2",
+        "headline": "GOP-led NC elections board votes to throw out ballots more easily",
+        "sourceName": "YouTube – WRAL",
+        "url": "https://www.youtube.com/watch?v=YHjz4IgrQ-w",
+        "publishedAt": "2026-07-16",
+        "relevanceSummary": "This WRAL video segment describes new State Board rules that allow county boards to reject voter ID exception affidavits by majority vote and to more easily remove people deemed too noisy at polling places, altering both ballot acceptance standards and polling-place conduct rules statewide, including in NC‑11.[3]",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-0ctlwvf",
+        "headline": "'We're supporting a lie': NC elections board votes to throw out ballots more easily",
+        "sourceName": "WRAL",
+        "url": "https://www.wral.com/news/nccapitol/nc-election-board-rule-proposal-change-republican-voter-id-mail-voting-july-2026/",
+        "publishedAt": "2026-07-16",
+        "relevanceSummary": "WRAL reports that the State Board of Elections approved rules making it easier for county officials to reject voter ID exception affidavits by majority vote and to remove people from polling places for being disruptive, with additional rules planned to allow easier rejection of mail-in ballots over envelope technicalities.[6]",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-0i6o9ng",
+        "headline": "NC elections board approves new rule making it easier to disqualify ballots",
+        "sourceName": "The News & Observer",
+        "url": "https://www.newsobserver.com/news/politics-government/election/article316534617.html",
+        "publishedAt": "2026-07-16",
+        "relevanceSummary": "The State Board of Elections approved new voter ID rules so that county boards can now reject ballots from voters who use ID exception affidavits by a simple majority instead of unanimously, which directly affects how NC-11 voters’ ballots may be accepted or disqualified in future elections.[7]",
+        "tag": "rule-change",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-15-nc11-auto",
-      "startedAt": "2026-07-15T06:25:17.742Z",
-      "completedAt": "2026-07-15T06:25:38.803Z",
+      "id": "run-2026-07-22-nc11-auto",
+      "startedAt": "2026-07-22T06:36:31.723Z",
+      "completedAt": "2026-07-22T06:37:03.507Z",
       "triggerType": "scheduled",
       "sourcesChecked": 7,
-      "updatesCreated": 4,
+      "updatesCreated": 7,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-15 for NC-11. Sources checked: 7. LLM verifications: 6. 4 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-07-22 for NC-11. Sources checked: 7. LLM verifications: 5. 4 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-07-22T06:25:38.803Z",
+    "NEXT_REFRESH_AT": "2026-07-29T06:37:03.507Z",
     "WEEKLY_REPORT": {
       "id": "wr-nc11-2026-w28",
       "periodStart": "2026-07-09",
