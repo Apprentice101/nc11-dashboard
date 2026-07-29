@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-22",
-  "updatedAt": "2026-07-22T06:37:03.507Z",
-  "exportedAt": "2026-07-22T21:16:55.251Z",
+  "dataAsOf": "2026-07-29",
+  "updatedAt": "2026-07-29T06:40:38.058Z",
+  "exportedAt": "2026-07-29T06:55:28.191Z",
   "districtCode": "NC-11",
   "data": {
     "DISTRICT": {
@@ -88,7 +88,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-22",
+        "lastVerified": "2026-07-29",
         "confidence": "unconfirmed"
       },
       "src-ncsbe-polling-lookup": {
@@ -137,7 +137,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-22",
+        "lastVerified": "2026-07-29",
         "confidence": "unconfirmed"
       },
       "src-ncsbe-results": {
@@ -187,7 +187,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-09",
+        "lastVerified": "2026-07-29",
         "confidence": "unconfirmed",
         "notes": "Statewide-uniform early voting, absentee request, and absentee return deadlines documented in this county-published candidate guide."
       },
@@ -200,7 +200,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-22",
+        "lastVerified": "2026-07-29",
         "confidence": "unconfirmed",
         "notes": "Enacted October 2025; altered only NC-01 and NC-03 boundaries. NC-11 boundaries left UNCHANGED. NEEDS REVIEW: the enacted plan PDF was not independently re-fetched from ncleg.gov in this pass; boundary-stability claim corroborated via news reporting on the scope of SL 2025-95."
       },
@@ -213,7 +213,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-22",
+        "lastVerified": "2026-07-29",
         "confidence": "unconfirmed",
         "notes": "In effect since 2023, confirmed for 2026. Requires photo ID, bans absentee drop boxes, and eliminates the post-Election-Day mail-receipt grace period for domestic ballots."
       },
@@ -834,20 +834,40 @@
         "relevanceSummary": "The State Board of Elections approved new voter ID rules so that county boards can now reject ballots from voters who use ID exception affidavits by a simple majority instead of unanimously, which directly affects how NC-11 voters’ ballots may be accepted or disqualified in future elections.[7]",
         "tag": "rule-change",
         "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-0jfax1v",
+        "headline": "Daily News – July 15, 2026: NC State Board of Elections to hold formal hearing to review cross-complaints involving Pitt County board members",
+        "sourceName": "Electionline",
+        "url": "https://electionline.org/news/2026/07-15/",
+        "publishedAt": "2026-07-15",
+        "relevanceSummary": "The North Carolina State Board of Elections plans a formal hearing on cross-complaints involving Pitt County election board members, highlighting statewide oversight of county election administration and board conduct, which can set precedents affecting procedures and governance in all counties, including those in NC-11.[3]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-0q3cm0v",
+        "headline": "NC State Board of Elections rulemaking public comment period and hearing on election rules",
+        "sourceName": "Orange County Democratic Party of North Carolina",
+        "url": "https://www.orangedems.com/",
+        "publishedAt": "2026-07-14",
+        "relevanceSummary": "The notice explains that the NC State Board of Elections is conducting rulemaking on election procedures, including an in‑person public hearing and written comment period, giving NC-11 voters an opportunity to influence statewide rules on voting and election administration that will govern their November general election.[5]",
+        "tag": "legislation",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-22-nc11-auto",
-      "startedAt": "2026-07-22T06:36:31.723Z",
-      "completedAt": "2026-07-22T06:37:03.507Z",
+      "id": "run-2026-07-29-nc11-auto",
+      "startedAt": "2026-07-29T06:40:16.998Z",
+      "completedAt": "2026-07-29T06:40:38.058Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 7,
-      "updatesCreated": 7,
+      "sourcesChecked": 6,
+      "updatesCreated": 2,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-22 for NC-11. Sources checked: 7. LLM verifications: 5. 4 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-07-29 for NC-11. Sources checked: 6. LLM verifications: 5. 5 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-07-29T06:37:03.507Z",
+    "NEXT_REFRESH_AT": "2026-08-05T06:40:38.058Z",
     "WEEKLY_REPORT": {
       "id": "wr-nc11-2026-w28",
       "periodStart": "2026-07-09",
