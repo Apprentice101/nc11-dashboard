@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-05",
-  "updatedAt": "2026-08-05T06:34:06.639Z",
-  "exportedAt": "2026-08-05T06:49:08.454Z",
+  "dataAsOf": "2026-08-12",
+  "updatedAt": "2026-08-12T05:35:38.350Z",
+  "exportedAt": "2026-08-12T05:48:34.373Z",
   "districtCode": "NC-11",
   "data": {
     "DISTRICT": {
@@ -88,7 +88,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-05",
+        "lastVerified": "2026-08-12",
         "confidence": "unconfirmed"
       },
       "src-ncsbe-polling-lookup": {
@@ -137,7 +137,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-05",
+        "lastVerified": "2026-08-12",
         "confidence": "unconfirmed"
       },
       "src-ncsbe-results": {
@@ -200,7 +200,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-05",
+        "lastVerified": "2026-08-12",
         "confidence": "unconfirmed",
         "notes": "Enacted October 2025; altered only NC-01 and NC-03 boundaries. NC-11 boundaries left UNCHANGED. NEEDS REVIEW: the enacted plan PDF was not independently re-fetched from ncleg.gov in this pass; boundary-stability claim corroborated via news reporting on the scope of SL 2025-95."
       },
@@ -213,7 +213,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-05",
+        "lastVerified": "2026-08-12",
         "confidence": "unconfirmed",
         "notes": "In effect since 2023, confirmed for 2026. Requires photo ID, bans absentee drop boxes, and eliminates the post-Election-Day mail-receipt grace period for domestic ballots."
       },
@@ -226,7 +226,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-05",
+        "lastVerified": "2026-08-12",
         "confidence": "unconfirmed",
         "notes": "Lowered the second-primary (runoff) trigger threshold from 40% to 30% of the vote."
       },
@@ -854,20 +854,100 @@
         "relevanceSummary": "The notice explains that the NC State Board of Elections is conducting rulemaking on election procedures, including an in‑person public hearing and written comment period, giving NC-11 voters an opportunity to influence statewide rules on voting and election administration that will govern their November general election.[5]",
         "tag": "legislation",
         "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-0yujlra",
+        "headline": "North Carolina GOP picks Balkcom to replace Edwards as NC-11 candidate",
+        "sourceName": "WRAL",
+        "url": "https://www.wral.com/news/nccapitol/north-carolina-house-republican-bid-congress-replace-edwards-august-10/",
+        "publishedAt": "2026-08-11",
+        "relevanceSummary": "WRAL reports that party officials picked Jennifer Balkcom to replace Edwards in the 11th Congressional District race. For NC-11 voters, this is a direct ballot-access change affecting the general election.",
+        "tag": "candidates",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-0ucpciu",
+        "headline": "GOP picks Balkcom to run in place of Edwards for NC congressional seat",
+        "sourceName": "Mountain Xpress",
+        "url": "https://mountainx.com/news/politics-elections/gop-picks-balkcom-to-run-in-place-of-edwards-for-nc-congressional-seat/",
+        "publishedAt": "2026-08-11",
+        "relevanceSummary": "Mountain Xpress says the Republican committee selected Jennifer Balkcom to replace Edwards in the NC-11 race, leaving a short campaign window before Election Day. This affects district voters because it changes the final November ballot choice.",
+        "tag": "candidates",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-0g17keh",
+        "headline": "Western North Carolina GOP picks new candidate for NC-11",
+        "sourceName": "The News & Observer",
+        "url": "https://www.newsobserver.com/news/politics-government/election/article316827479.html",
+        "publishedAt": "2026-08-11",
+        "relevanceSummary": "This article reports that the NC-11 Republican Executive Committee chose Jennifer Balkcom to replace Chuck Edwards on the ballot. That is directly relevant to voters because it determines who will appear as the GOP nominee in the district.",
+        "tag": "candidates",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-03k0s6p",
+        "headline": "Jennifer Balkcom picked as Rep. Edwards' replacement in NC-11 race",
+        "sourceName": "WLOS",
+        "url": "https://wlos.com/news/local/north-carolina-11th-district-republican-jennifer-balkcom-chuck-edwards-replacement-jamie-ager-election",
+        "publishedAt": "2026-08-10",
+        "relevanceSummary": "WLOS reports that Balkcom was selected to replace Edwards as the Republican nominee for North Carolina’s 11th Congressional District. That matters to voters because it updates the candidate slate for the November general election.",
+        "tag": "candidates",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-038l0cd",
+        "headline": "Political shifts make NC-11 more competitive than ever, analysts say",
+        "sourceName": "WLOS",
+        "url": "https://wlos.com/news/local/political-shifts-nc-11-more-competitive-analysts-north-carolina-congressional-district-republicans-gop-democrats-purple-state-election-politics",
+        "publishedAt": "2026-08-09",
+        "relevanceSummary": "This piece discusses the district’s changing race dynamics and notes the GOP’s pending replacement process for the ballot vacancy. While mostly political, it is relevant because it describes the procedural path that determines the final NC-11 ballot.",
+        "tag": "candidates",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-02b1207",
+        "headline": "NC-11 GOP Replacement Process; Election Bills Head to Stein; Student Safety",
+        "sourceName": "WLOS / State Lines",
+        "url": "https://www.youtube.com/watch?v=DuPPJspAyI8",
+        "publishedAt": "2026-08-07",
+        "relevanceSummary": "This segment says North Carolina’s election-reform legislation passed the state House and explains the NC-11 GOP replacement process after Edwards withdrew. It is relevant to NC-11 voters because statewide election-rule changes and ballot replacement rules can affect how the November election is run.",
+        "tag": "legislation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-0r4xa4s",
+        "headline": "Chuck Edwards ends reelection campaign amid censure threat",
+        "sourceName": "Asheville Citizen Times",
+        "url": "https://www.citizen-times.com/story/news/local/2026/08/05/chuck-edwards-withdraws-from-nc-11-reelection-race/91178538007/",
+        "publishedAt": "2026-08-05",
+        "relevanceSummary": "The Citizen Times says Edwards ended his reelection campaign, triggering the process for replacing him on the NC-11 ballot. That matters to district voters because it directly changes the candidates they will see in November.",
+        "tag": "candidates",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-01vrjpi",
+        "headline": "NCGOP to quickly fill vacancy after Rep. Chuck Edwards drops re-election bid",
+        "sourceName": "FOX Carolina",
+        "url": "https://www.foxcarolina.com/2026/08/05/ncgop-fill-vacancy-after-rep-chuck-edwards-drops-re-election-bid/",
+        "publishedAt": "2026-08-05",
+        "relevanceSummary": "This reports that the NCGOP is moving to replace Chuck Edwards on the November ballot after he withdrew from the race, which affects NC-11 voters because the district’s general-election ballot lineup changed under North Carolina party-vacancy procedures.",
+        "tag": "candidates",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-05-nc11-auto",
-      "startedAt": "2026-08-05T06:33:47.068Z",
-      "completedAt": "2026-08-05T06:34:06.639Z",
+      "id": "run-2026-08-12-nc11-auto",
+      "startedAt": "2026-08-12T05:35:17.405Z",
+      "completedAt": "2026-08-12T05:35:38.350Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 6,
-      "updatesCreated": 0,
+      "sourcesChecked": 7,
+      "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-05 for NC-11. Sources checked: 6. LLM verifications: 5. 6 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-08-12 for NC-11. Sources checked: 7. LLM verifications: 5. 5 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-08-12T06:34:06.639Z",
+    "NEXT_REFRESH_AT": "2026-08-19T05:35:38.350Z",
     "WEEKLY_REPORT": {
       "id": "wr-nc11-2026-w28",
       "periodStart": "2026-07-09",
