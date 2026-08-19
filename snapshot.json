@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-12",
-  "updatedAt": "2026-08-12T05:35:38.350Z",
-  "exportedAt": "2026-08-12T05:48:34.373Z",
+  "dataAsOf": "2026-08-19",
+  "updatedAt": "2026-08-19T04:50:32.547Z",
+  "exportedAt": "2026-08-19T05:08:40.728Z",
   "districtCode": "NC-11",
   "data": {
     "DISTRICT": {
@@ -88,7 +88,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-12",
+        "lastVerified": "2026-08-19",
         "confidence": "unconfirmed"
       },
       "src-ncsbe-polling-lookup": {
@@ -137,7 +137,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-12",
+        "lastVerified": "2026-08-19",
         "confidence": "unconfirmed"
       },
       "src-ncsbe-results": {
@@ -187,7 +187,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-05",
+        "lastVerified": "2026-08-19",
         "confidence": "unconfirmed",
         "notes": "Statewide-uniform early voting, absentee request, and absentee return deadlines documented in this county-published candidate guide."
       },
@@ -200,7 +200,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-12",
+        "lastVerified": "2026-08-19",
         "confidence": "unconfirmed",
         "notes": "Enacted October 2025; altered only NC-01 and NC-03 boundaries. NC-11 boundaries left UNCHANGED. NEEDS REVIEW: the enacted plan PDF was not independently re-fetched from ncleg.gov in this pass; boundary-stability claim corroborated via news reporting on the scope of SL 2025-95."
       },
@@ -226,7 +226,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-12",
+        "lastVerified": "2026-08-19",
         "confidence": "unconfirmed",
         "notes": "Lowered the second-primary (runoff) trigger threshold from 40% to 30% of the vote."
       },
@@ -934,20 +934,80 @@
         "relevanceSummary": "This reports that the NCGOP is moving to replace Chuck Edwards on the November ballot after he withdrew from the race, which affects NC-11 voters because the district’s general-election ballot lineup changed under North Carolina party-vacancy procedures.",
         "tag": "candidates",
         "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-0urw15h",
+        "headline": "Election administration bill becomes law",
+        "sourceName": "NC Political News",
+        "url": "https://www.ncpoliticalnews.com/news/election-administration-bill-becomes-law",
+        "publishedAt": "2026-08-12",
+        "relevanceSummary": "A new statewide election administration law extends several post-election deadlines from the third to the fifth business day after an election for things like curing missing signatures on provisional ballots, fixing incomplete registrations, and providing required photo ID, and also changes when and how county boards count and report provisional and absentee ballots—procedures that directly govern how NC‑11 voters’ ballots are processed.[3] This matters for NC‑11 voters who may need extra time to correct ballot or ID issues and for understanding how local election officials handle absentee and provisional ballots.[3]",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-090h8s4",
+        "headline": "View Early Voting Information",
+        "sourceName": "Buncombe County Government",
+        "url": "https://www.buncombenc.gov/216/Early-Voting",
+        "publishedAt": "2026-08-10",
+        "relevanceSummary": "Buncombe County’s elections page lists specific one‑stop early voting sites, explains that any registered voter can cast an absentee ballot in person at any early voting site, and outlines same‑day registration rules for people who are not yet registered in the county.[1] Because Buncombe is the population anchor of NC‑11, these site locations and procedures are directly relevant to many NC‑11 voters planning to vote early or update their registration.[1]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-00qwgyo",
+        "headline": "Forget to Seal Your Mail-in Ballot? New State Elections Rule Adds Risk of Rejection",
+        "sourceName": "Ground News (aggregated NC coverage)",
+        "url": "https://ground.news/article/mail-in-ballots-could-be-more-easily-thrown-out-under-new-nc-proposal_3d8bf7",
+        "publishedAt": "2026-08-10",
+        "relevanceSummary": "Coverage of a 3–2 vote by the state elections board explains that a new rule would let local officials more easily reject mail‑in ballots for envelope and technical errors if approved by the Rules Review Commission.[8] This proposal, applying statewide, directly affects NC‑11 voters who cast absentee ballots, increasing the importance of following envelope and sealing instructions precisely.[8]",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-0hnge7z",
+        "headline": "Know Your Rights: NC Voters",
+        "sourceName": "You Can Vote",
+        "url": "https://www.youcanvote.org/resource/know-your-rights-nc-voters/",
+        "publishedAt": "2026-08-03",
+        "relevanceSummary": "This resource details which photo IDs are approved for North Carolina voters, clarifies that the address on the ID does not have to match voter registration, and notes that certain IDs for voters over 65 are valid for life if unexpired on their 65th birthday.[7] As a statewide voter‑ID explainer, it directly informs NC‑11 voters about acceptable identification documents and how to comply with current ID requirements at the polls.[7]",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-0y5h120",
+        "headline": "Voter ID",
+        "sourceName": "You Can Vote",
+        "url": "https://www.youcanvote.org/voter-guide/vote-in-north-carolina/voter-id/",
+        "publishedAt": "2026-08-03",
+        "relevanceSummary": "A statewide voter‑education guide explains that North Carolina now requires photo ID to vote, lists acceptable IDs (including NC driver’s licenses, non‑driver IDs, passports, approved student and government IDs), and describes how voters can obtain a free ID from their county board of elections or use a Photo ID Exception Form and provisional ballot if they lack ID.[5] These voter‑ID rules and exception procedures apply to all NC‑11 voters for both in‑person and some absentee voting contexts.[5]",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-0mbxjgo",
+        "headline": "First Day of Early Voting – 2026 General Election",
+        "sourceName": "Buncombe County Government",
+        "url": "https://www.buncombenc.gov/Calendar.aspx?EID=10752",
+        "publishedAt": "2026-07-30",
+        "relevanceSummary": "A Buncombe County elections calendar entry states that early voting for the 2026 general election will run from October 15 through October 31 at 3 p.m., and reiterates that early voting allows any registered voter to cast an absentee ballot in person at any early voting site.[2] These dates and rules are key procedural information for NC‑11 voters residing in or near Buncombe County who plan to vote before Election Day.[2]",
+        "tag": "deadline",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-12-nc11-auto",
-      "startedAt": "2026-08-12T05:35:17.405Z",
-      "completedAt": "2026-08-12T05:35:38.350Z",
+      "id": "run-2026-08-19-nc11-auto",
+      "startedAt": "2026-08-19T04:49:45.736Z",
+      "completedAt": "2026-08-19T04:50:32.547Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 7,
-      "updatesCreated": 8,
+      "sourcesChecked": 6,
+      "updatesCreated": 6,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-12 for NC-11. Sources checked: 7. LLM verifications: 5. 5 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-08-19 for NC-11. Sources checked: 6. LLM verifications: 5. 5 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-08-19T05:35:38.350Z",
+    "NEXT_REFRESH_AT": "2026-08-26T04:50:32.547Z",
     "WEEKLY_REPORT": {
       "id": "wr-nc11-2026-w28",
       "periodStart": "2026-07-09",
