@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-19",
-  "updatedAt": "2026-08-19T04:50:32.547Z",
-  "exportedAt": "2026-08-19T05:08:40.728Z",
+  "dataAsOf": "2026-08-26",
+  "updatedAt": "2026-08-26T04:55:19.018Z",
+  "exportedAt": "2026-08-26T05:16:39.360Z",
   "districtCode": "NC-11",
   "data": {
     "DISTRICT": {
@@ -88,7 +88,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-19",
+        "lastVerified": "2026-08-26",
         "confidence": "unconfirmed"
       },
       "src-ncsbe-polling-lookup": {
@@ -137,7 +137,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-19",
+        "lastVerified": "2026-08-26",
         "confidence": "unconfirmed"
       },
       "src-ncsbe-results": {
@@ -187,7 +187,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-19",
+        "lastVerified": "2026-08-26",
         "confidence": "unconfirmed",
         "notes": "Statewide-uniform early voting, absentee request, and absentee return deadlines documented in this county-published candidate guide."
       },
@@ -200,7 +200,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-19",
+        "lastVerified": "2026-08-26",
         "confidence": "unconfirmed",
         "notes": "Enacted October 2025; altered only NC-01 and NC-03 boundaries. NC-11 boundaries left UNCHANGED. NEEDS REVIEW: the enacted plan PDF was not independently re-fetched from ncleg.gov in this pass; boundary-stability claim corroborated via news reporting on the scope of SL 2025-95."
       },
@@ -994,20 +994,100 @@
         "relevanceSummary": "A Buncombe County elections calendar entry states that early voting for the 2026 general election will run from October 15 through October 31 at 3 p.m., and reiterates that early voting allows any registered voter to cast an absentee ballot in person at any early voting site.[2] These dates and rules are key procedural information for NC‑11 voters residing in or near Buncombe County who plan to vote before Election Day.[2]",
         "tag": "deadline",
         "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-0vfsg29",
+        "headline": "Online Judicial Voter Guide Now Available at NCSBE.gov",
+        "sourceName": "North Carolina State Board of Elections",
+        "url": "https://www.ncsbe.gov/news/press-releases/2026/08/25/online-judicial-voter-guide-now-available-ncsbegov",
+        "publishedAt": "2026-08-25",
+        "relevanceSummary": "The State Board of Elections released the online 2026 Judicial Voter Guide for the general election, giving NC-11 voters an official resource to review judicial candidates and understand contests on their ballots, which supports informed voting and complements other statewide election information.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-0sqsk9a",
+        "headline": "The Markup: NC gov signs law extending deadlines, facilitating election administration and vetoes bill expanding ballot challenges and shortening early voting",
+        "sourceName": "Voting Rights Lab",
+        "url": "https://votingrightslab.org/2026/08/24/the-markup-nc-gov-signs-vetoes-bills-federal-legal-fights-escalate/",
+        "publishedAt": "2026-08-24",
+        "relevanceSummary": "Gov. Josh Stein signed H.B. 834, which extends post–Election Day deadlines for voters to cure problems with registration, voter ID, and other deficiencies, and vetoed H.B. 958, a broad election overhaul that would have shortened some early-voting periods and expanded ballot challenges; these statewide rules directly affect all NC-11 voters’ timelines for fixing issues and the stability of early voting procedures.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-0vcgeh4",
+        "headline": "NC election officials OK early voting plans that eliminate Sunday voting in some counties",
+        "sourceName": "Democracy Renovator",
+        "url": "https://www.democracyrenovator.com/p/states-rein-in-license-plate-surveillance",
+        "publishedAt": "2026-08-23",
+        "relevanceSummary": "A section of this report describes North Carolina’s election board backing county-level GOP decisions to cut Sunday early voting hours and denying a proposed voting site at a major HBCU, highlighting a statewide contraction of Sunday early voting that could impact access for NC-11 voters if similar cuts occur in their counties.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-030w0i5",
+        "headline": "NC election officials OK early voting plans that eliminate Sunday voting in some counties",
+        "sourceName": "WRAL",
+        "url": "https://www.wral.com/video/nc-election-officials-ok-early-voting-eliminate-sunday-voting-some-counties-august-2026/",
+        "publishedAt": "2026-08-21",
+        "relevanceSummary": "State election officials approved county early-voting plans that cut Sunday voting in several North Carolina counties, continuing a broader shift in early-voting hours; although not specific to NC-11, this shows statewide administrative patterns that may influence early-voting options and scheduling in the district’s counties.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-05ie2c2",
+        "headline": "Some NC counties drop Sunday voting under approved plans",
+        "sourceName": "ABC11 (WTVD)",
+        "url": "https://abc11.com/post/nc-elections-board-approves-early-voting-plans-county-disputes/19711362/",
+        "publishedAt": "2026-08-21",
+        "relevanceSummary": "The North Carolina State Board of Elections approved final early-voting plans for 20 counties after local boards deadlocked, with some counties eliminating Sunday voting; these statewide decisions shape the October early-voting calendar and site availability and signal how similar disputes may be resolved in western NC counties that include NC-11.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-0imk32r",
+        "headline": "Accessible Voting",
+        "sourceName": "Disability Rights North Carolina",
+        "url": "https://disabilityrightsnc.org/our-work/voting/",
+        "publishedAt": "2026-08-21",
+        "relevanceSummary": "This statewide voter-resource update explains that North Carolina now requires an acceptable photo ID, such as an NC driver’s license, to vote with a regular ballot, outlines what counts as acceptable ID, and describes exception forms for voters without ID, offering NC-11 voters clear guidance on voter-ID requirements and how to fix registration records if they are missing ID numbers.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-0dkjx98",
+        "headline": "NC elections board rejects Sunday voting in some counties",
+        "sourceName": "WFAE",
+        "url": "https://www.wfae.org/2026-08-20/nc-elections-board-rejects-sunday-voting-some-counties",
+        "publishedAt": "2026-08-20",
+        "relevanceSummary": "The State Board of Elections finalized early-voting schedules across North Carolina, including decisions that limit or in some cases allow only one Sunday of voting, and confirmed that early voting will run statewide from Oct. 15–31; these statewide parameters directly define the early-voting window and likely patterns of Sunday access for NC-11 voters.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-0rbjsfj",
+        "headline": "NC Governor Vetoes Election Overhaul That Would Cross-Check Voter Rolls With Death Records",
+        "sourceName": "Tipp Insights",
+        "url": "https://tippinsights.com/nc-governor-vetoes-election-overhaul-that-would-cross-check-voter-rolls-with-death-records/",
+        "publishedAt": "2026-08-20",
+        "relevanceSummary": "The article details H.B. 958, vetoed by Gov. Stein, which would have mandated aggressive voter-roll maintenance, allowed broad challenges to voter registrations and ballots, modified photo-ID handling for provisional ballots, and reduced early-voting days; even vetoed, it remains relevant for NC-11 voters because the legislature could attempt an override after the November election, signaling potential future changes to registration and voting procedures.",
+        "tag": "legislation",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-19-nc11-auto",
-      "startedAt": "2026-08-19T04:49:45.736Z",
-      "completedAt": "2026-08-19T04:50:32.547Z",
+      "id": "run-2026-08-26-nc11-auto",
+      "startedAt": "2026-08-26T04:54:40.933Z",
+      "completedAt": "2026-08-26T04:55:19.018Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 6,
-      "updatesCreated": 6,
+      "sourcesChecked": 7,
+      "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-19 for NC-11. Sources checked: 6. LLM verifications: 5. 5 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-08-26 for NC-11. Sources checked: 7. LLM verifications: 5. 4 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-08-26T04:50:32.547Z",
+    "NEXT_REFRESH_AT": "2026-09-02T04:55:19.018Z",
     "WEEKLY_REPORT": {
       "id": "wr-nc11-2026-w28",
       "periodStart": "2026-07-09",
