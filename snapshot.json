@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-26",
-  "updatedAt": "2026-08-26T04:55:19.018Z",
-  "exportedAt": "2026-08-26T05:16:39.360Z",
+  "dataAsOf": "2026-09-02",
+  "updatedAt": "2026-09-02T08:43:11.162Z",
+  "exportedAt": "2026-09-02T09:10:31.527Z",
   "districtCode": "NC-11",
   "data": {
     "DISTRICT": {
@@ -88,7 +88,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-26",
+        "lastVerified": "2026-09-02",
         "confidence": "unconfirmed"
       },
       "src-ncsbe-polling-lookup": {
@@ -137,7 +137,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-26",
+        "lastVerified": "2026-09-02",
         "confidence": "unconfirmed"
       },
       "src-ncsbe-results": {
@@ -187,7 +187,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-26",
+        "lastVerified": "2026-09-02",
         "confidence": "unconfirmed",
         "notes": "Statewide-uniform early voting, absentee request, and absentee return deadlines documented in this county-published candidate guide."
       },
@@ -200,7 +200,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-26",
+        "lastVerified": "2026-09-02",
         "confidence": "unconfirmed",
         "notes": "Enacted October 2025; altered only NC-01 and NC-03 boundaries. NC-11 boundaries left UNCHANGED. NEEDS REVIEW: the enacted plan PDF was not independently re-fetched from ncleg.gov in this pass; boundary-stability claim corroborated via news reporting on the scope of SL 2025-95."
       },
@@ -213,7 +213,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-12",
+        "lastVerified": "2026-09-02",
         "confidence": "unconfirmed",
         "notes": "In effect since 2023, confirmed for 2026. Requires photo ID, bans absentee drop boxes, and eliminates the post-Election-Day mail-receipt grace period for domestic ballots."
       },
@@ -226,7 +226,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-19",
+        "lastVerified": "2026-09-02",
         "confidence": "unconfirmed",
         "notes": "Lowered the second-primary (runoff) trigger threshold from 40% to 30% of the vote."
       },
@@ -1074,20 +1074,90 @@
         "relevanceSummary": "The article details H.B. 958, vetoed by Gov. Stein, which would have mandated aggressive voter-roll maintenance, allowed broad challenges to voter registrations and ballots, modified photo-ID handling for provisional ballots, and reduced early-voting days; even vetoed, it remains relevant for NC-11 voters because the legislature could attempt an override after the November election, signaling potential future changes to registration and voting procedures.",
         "tag": "legislation",
         "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-0x78djh",
+        "headline": "2026 Asheville election: Candidates, races and voting guide",
+        "sourceName": "828 News Now",
+        "url": "https://828newsnow.com/news/228822-2026-asheville-election-candidates-races-and-voting-guide/",
+        "publishedAt": "2026-08-30",
+        "relevanceSummary": "This local guide for Asheville, within NC-11, provides practical voting information such as early voting dates (October 15–31), absentee-by-mail request deadlines, and a list of 13 Buncombe County early-voting sites with hours, helping district voters plan when and where to cast ballots for the November general.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-0oxthe4",
+        "headline": "Election 2026: Everything You Need to Know",
+        "sourceName": "Buncombe County Government",
+        "url": "https://www.buncombenc.gov/m/newsflash/Home/Detail/1118",
+        "publishedAt": "2026-08-28",
+        "relevanceSummary": "Buncombe County’s official notice outlines key 2026 election procedures for NC-11’s largest county, including that absentee-by-mail voting begins September 4, the deadline to request an absentee ballot is October 20, and that any registered voter may vote by mail using the state absentee request form, providing concrete deadlines and steps for district voters.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-0cf1r0s",
+        "headline": "Facing time crunch, North Carolina takes first step to comply with new USPS mail voting rule while fighting it",
+        "sourceName": "Democracy Docket",
+        "url": "https://www.democracydocket.com/news-alerts/facing-time-crunch-north-carolina-takes-first-step-to-comply-with-new-usps-mail-voting-rule-while-fighting-it/",
+        "publishedAt": "2026-08-28",
+        "relevanceSummary": "Democracy Docket describes how North Carolina is adjusting its absentee ballot envelopes to meet a new USPS rule requiring trackable barcodes and specific design elements while simultaneously challenging the rule, which affects how NC-11 voters’ mail ballots are designed, tracked, and delivered for the November general.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-01jwnne",
+        "headline": "Proposed NC election rules head to legislative review. Will they take effect before 2026 vote?",
+        "sourceName": "WRAL",
+        "url": "https://www.wral.com/news/nccapitol/nc-election-rules-delayed-mail-ballot-voter-id-legislature-stein-august-2026/",
+        "publishedAt": "2026-08-28",
+        "relevanceSummary": "WRAL reports that the Rules Review Commission sent new State Board of Elections rules on voter ID enforcement and mail ballots to the General Assembly for review, pausing them before they can take effect and prompting Attorney General Josh Stein to urge a delay, which directly impacts how NC-11 voters’ IDs and absentee ballots may be evaluated in November.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-0z0p0xn",
+        "headline": "NC election rules paused + Downtown Raleigh gateway transforms: Thursday's top Triangle stories",
+        "sourceName": "The News & Observer",
+        "url": "https://www.newsobserver.com/news/local/article317037981.html",
+        "publishedAt": "2026-08-27",
+        "relevanceSummary": "This roundup notes that the Rules Review Commission unanimously approved new statewide election rules on voter ID and mail-in ballots but that public objections triggered legislative review, delaying at least some rules from taking effect before the 2026 elections, so NC-11 voters need to be aware that planned changes to ID and absentee procedures may not apply yet.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-046f66u",
+        "headline": "Newly-approved NC election rules may not start as scheduled",
+        "sourceName": "Yahoo News (via local reporting)",
+        "url": "https://www.yahoo.com/news/politics/articles/newly-approved-nc-election-rules-234600891.html",
+        "publishedAt": "2026-08-27",
+        "relevanceSummary": "This piece details that new North Carolina rules on voter ID exception forms and mail-in ballot handling are headed for legislative review, potentially delaying their implementation just as absentee ballots begin going out on September 4, which creates uncertainty for NC-11 voters about how ID exceptions and mail ballot defects will be treated this cycle.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-0b4qr52",
+        "headline": "NC approves stricter rules on voter ID, mail-in ballots",
+        "sourceName": "The News & Observer",
+        "url": "https://www.newsobserver.com/news/politics-government/election/article317029992.html",
+        "publishedAt": "2026-08-27",
+        "relevanceSummary": "The article explains newly approved statewide rules that make it easier for county boards to disqualify ballots from voters who lack photo ID and create detailed standards for when mail-in ballot errors are considered curable or non-curable, directly affecting how NC-11 voters’ in‑person and absentee ballots will be judged and how signature/defect cure works.",
+        "tag": "rule-change",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-26-nc11-auto",
-      "startedAt": "2026-08-26T04:54:40.933Z",
-      "completedAt": "2026-08-26T04:55:19.018Z",
+      "id": "run-2026-09-02-nc11-auto",
+      "startedAt": "2026-09-02T08:41:54.614Z",
+      "completedAt": "2026-09-02T08:43:11.162Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 7,
-      "updatesCreated": 8,
+      "sourcesChecked": 6,
+      "updatesCreated": 7,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-26 for NC-11. Sources checked: 7. LLM verifications: 5. 4 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-02 for NC-11. Sources checked: 6. LLM verifications: 4. 6 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-02T04:55:19.018Z",
+    "NEXT_REFRESH_AT": "2026-09-09T08:43:11.162Z",
     "WEEKLY_REPORT": {
       "id": "wr-nc11-2026-w28",
       "periodStart": "2026-07-09",
