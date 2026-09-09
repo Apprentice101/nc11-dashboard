@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-02",
-  "updatedAt": "2026-09-02T08:43:11.162Z",
-  "exportedAt": "2026-09-02T09:10:31.527Z",
+  "dataAsOf": "2026-09-09",
+  "updatedAt": "2026-09-09T08:56:24.533Z",
+  "exportedAt": "2026-09-09T09:20:48.861Z",
   "districtCode": "NC-11",
   "data": {
     "DISTRICT": {
@@ -88,7 +88,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-02",
+        "lastVerified": "2026-09-09",
         "confidence": "unconfirmed"
       },
       "src-ncsbe-polling-lookup": {
@@ -137,7 +137,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-02",
+        "lastVerified": "2026-09-09",
         "confidence": "unconfirmed"
       },
       "src-ncsbe-results": {
@@ -187,7 +187,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-02",
+        "lastVerified": "2026-09-09",
         "confidence": "unconfirmed",
         "notes": "Statewide-uniform early voting, absentee request, and absentee return deadlines documented in this county-published candidate guide."
       },
@@ -200,7 +200,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-02",
+        "lastVerified": "2026-09-09",
         "confidence": "unconfirmed",
         "notes": "Enacted October 2025; altered only NC-01 and NC-03 boundaries. NC-11 boundaries left UNCHANGED. NEEDS REVIEW: the enacted plan PDF was not independently re-fetched from ncleg.gov in this pass; boundary-stability claim corroborated via news reporting on the scope of SL 2025-95."
       },
@@ -213,7 +213,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-02",
+        "lastVerified": "2026-09-09",
         "confidence": "unconfirmed",
         "notes": "In effect since 2023, confirmed for 2026. Requires photo ID, bans absentee drop boxes, and eliminates the post-Election-Day mail-receipt grace period for domestic ballots."
       },
@@ -226,7 +226,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-02",
+        "lastVerified": "2026-09-09",
         "confidence": "unconfirmed",
         "notes": "Lowered the second-primary (runoff) trigger threshold from 40% to 30% of the vote."
       },
@@ -1144,20 +1144,100 @@
         "relevanceSummary": "The article explains newly approved statewide rules that make it easier for county boards to disqualify ballots from voters who lack photo ID and create detailed standards for when mail-in ballot errors are considered curable or non-curable, directly affecting how NC-11 voters’ in‑person and absentee ballots will be judged and how signature/defect cure works.",
         "tag": "rule-change",
         "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-0dz4yrf",
+        "headline": "Will you be voting by mail in North Carolina? Here's how to avoid having your ballot rejected.",
+        "sourceName": "Enlace Latino NC",
+        "url": "https://enlacelatinonc.org/en/Vote-by-mail-in-North-Carolina-so-you-can-avoid-having-your-ballot-rejected./",
+        "publishedAt": "2026-09-08",
+        "relevanceSummary": "Gives practical guidance for North Carolina voters on avoiding mail‑ballot rejection, emphasizing the need to include a valid photo‑ID copy or exemption form and to meet all envelope and form requirements, directly helping NC-11 voters navigate absentee procedures and cure potential issues.[12]",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-0p7xf98",
+        "headline": "2026 N.C. Election Guide: Who's On Your Ballot",
+        "sourceName": "The Assembly NC",
+        "url": "https://www.theassemblync.com/news/politics/elections/2026-north-carolina-election-guide-november/",
+        "publishedAt": "2026-09-08",
+        "relevanceSummary": "Offers a statewide guide to the 2026 general election, explaining North Carolina’s photo ID requirements for all voting methods, listing acceptable IDs, and noting that absentee voters must include a photocopy or an ID exemption form, which directly affects NC-11 voters’ compliance with voter‑ID rules.[4]",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-07dwtbm",
+        "headline": "New absentee guidance takes effect as ballots head to ...",
+        "sourceName": "WLOS",
+        "url": "https://wlos.com/news/local/election-voting-ballot-absentee-mail-north-carolina-voters-state-security-contact-board-general-2026-community-wnc",
+        "publishedAt": "2026-09-07",
+        "relevanceSummary": "Reports on updated statewide absentee‑ballot guidance, including common errors such as using the wrong envelope, failing to seal it, or omitting the required photocopy of voter ID in the sleeve, highlighting issues that could cause NC-11 voters’ mail ballots to be challenged or rejected.[7]",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-0p8f6hm",
+        "headline": "What's up with mail-in voting in NC in 2026?",
+        "sourceName": "WFAE",
+        "url": "https://www.wfae.org/politics/2026-09-07/whats-up-with-mail-in-voting-in-nc-in-2026",
+        "publishedAt": "2026-09-07",
+        "relevanceSummary": "Provides a detailed explainer on North Carolina mail‑in voting, including request deadlines, witness or notary requirements, photo‑ID copy and exception‑form rules, lack of signature verification, and the 7:30 p.m. Election Day receipt deadline, all of which govern how NC-11 voters can cast and return absentee ballots.[6]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-0saz17w",
+        "headline": "Mail-in voting has begun in NC. Here’s what to know for the 2026 midterms",
+        "sourceName": "WRAL",
+        "url": "https://www.wral.com/news/nccapitol/mail-voting-north-carolina-absentee-ballot-rules-how-to-midterm-election-september-2026/",
+        "publishedAt": "2026-09-06",
+        "relevanceSummary": "Explains statewide absentee‑ballot procedures now that mail‑in voting has begun, including how NC voters (including NC-11) can request ballots online or via county boards, the Oct. 20 request deadline, and options for hand‑delivering completed ballots at early‑voting sites or county election offices before polls close.[13]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-0ietq4a",
+        "headline": "North Carolina begins 2026 voting with new mail ballot rules",
+        "sourceName": "Axios Raleigh",
+        "url": "https://www.axios.com/local/raleigh/2026/09/04/north-carolina-election-mail-voting-registration-deadlines",
+        "publishedAt": "2026-09-04",
+        "relevanceSummary": "Summarizes statewide 2026 election procedures including mail‑ballot rules and key dates such as the Oct. 9 voter‑registration mail deadline, providing NC-11 voters with updated timelines for registering and voting by mail.[3]",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-0h4xh80",
+        "headline": "Mail-in voting in North Carolina starts soon: Here's what to know",
+        "sourceName": "WLOS",
+        "url": "https://wlos.com/news/election/voting-north-carolina-starts-soon-friday-september-4-2026-election-wnc-absentee-mail-ballots-midterms-general-elections-reminders",
+        "publishedAt": "2026-09-03",
+        "relevanceSummary": "Explains how all North Carolina voters, including those in NC-11, can vote by mail, during the 17‑day early‑voting period, or on Election Day, including how to request an absentee ballot, the requirement to include a photocopy of photo ID or an exception form, and the ballot return and voter‑registration deadlines.[1]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-09xprth",
+        "headline": "Mail-in voting starts Friday in NC: What you need to know",
+        "sourceName": "WECT",
+        "url": "https://www.wect.com/2026/09/02/mail-in-voting-starts-friday-nc-what-you-need-know/",
+        "publishedAt": "2026-09-02",
+        "relevanceSummary": "Covers the statewide start of absentee‑by‑mail voting on Sept. 4 and reminds that all registered North Carolina voters, including NC-11, can cast ballots by mail, early in person, or on Election Day, with counties beginning to mail requested ballots across all 100 counties.[2]",
+        "tag": "administration",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-02-nc11-auto",
-      "startedAt": "2026-09-02T08:41:54.614Z",
-      "completedAt": "2026-09-02T08:43:11.162Z",
+      "id": "run-2026-09-09-nc11-auto",
+      "startedAt": "2026-09-09T08:55:37.455Z",
+      "completedAt": "2026-09-09T08:56:24.533Z",
       "triggerType": "scheduled",
       "sourcesChecked": 6,
-      "updatesCreated": 7,
+      "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-02 for NC-11. Sources checked: 6. LLM verifications: 4. 6 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-09 for NC-11. Sources checked: 6. LLM verifications: 4. 6 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-09T08:43:11.162Z",
+    "NEXT_REFRESH_AT": "2026-09-16T08:56:24.533Z",
     "WEEKLY_REPORT": {
       "id": "wr-nc11-2026-w28",
       "periodStart": "2026-07-09",
