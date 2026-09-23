@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-16",
-  "updatedAt": "2026-09-16T09:23:59.468Z",
-  "exportedAt": "2026-09-16T09:52:20.322Z",
+  "dataAsOf": "2026-09-23",
+  "updatedAt": "2026-09-23T09:18:41.688Z",
+  "exportedAt": "2026-09-23T09:38:38.139Z",
   "districtCode": "NC-11",
   "data": {
     "DISTRICT": {
@@ -88,7 +88,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-16",
+        "lastVerified": "2026-09-23",
         "confidence": "unconfirmed"
       },
       "src-ncsbe-polling-lookup": {
@@ -137,7 +137,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-16",
+        "lastVerified": "2026-09-23",
         "confidence": "unconfirmed"
       },
       "src-ncsbe-results": {
@@ -200,7 +200,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-16",
+        "lastVerified": "2026-09-23",
         "confidence": "unconfirmed",
         "notes": "Enacted October 2025; altered only NC-01 and NC-03 boundaries. NC-11 boundaries left UNCHANGED. NEEDS REVIEW: the enacted plan PDF was not independently re-fetched from ncleg.gov in this pass; boundary-stability claim corroborated via news reporting on the scope of SL 2025-95."
       },
@@ -239,7 +239,7 @@
         "sourceType": "civic-nonprofit",
         "hierarchyLevel": 5,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-09",
+        "lastVerified": "2026-09-23",
         "confidence": "unconfirmed"
       },
       "src-ballotwatch-nc": {
@@ -1284,20 +1284,100 @@
         "relevanceSummary": "The state elections board outlines how all North Carolina voters, including those in NC-11, can vote in the 2026 general election, including absentee-by-mail procedures, witness requirements, and the requirement to include a photocopy of an acceptable photo ID in the ballot envelope for mail voting.[1]",
         "tag": "voter-info",
         "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-09tf2rf",
+        "headline": "North Carolina mail ballot changes challenged",
+        "sourceName": "Courthouse News Service",
+        "url": "https://www.courthousenews.com/north-carolina-mail-ballot-changes-challenged/",
+        "publishedAt": "2026-09-22",
+        "relevanceSummary": "A legal challenge addresses North Carolina’s new requirement that absentee ballots be sealed in an inner envelope and a new signature-verification process. The article also notes that absentee voters must include a photo-ID copy or complete the applicable exception process, directly affecting NC-11 mail voters.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-01mpczh",
+        "headline": "What’s up with all these ballot questions in NC in 2026?",
+        "sourceName": "WFAE",
+        "url": "https://www.wfae.org/politics/2026-09-21/whats-up-with-all-these-ballot-questions-in-nc-in-2026",
+        "publishedAt": "2026-09-21",
+        "relevanceSummary": "The article explains a proposed North Carolina constitutional amendment that would require valid photo ID for all voting, including mail voting. It notes that photo ID is already required in practice for absentee voters under current law, making the measure relevant to NC-11 voters’ ballot procedures.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-0ruaemz",
+        "headline": "Election 2026: Earls roars ahead of Stevens by nearly 11% in new poll",
+        "sourceName": "The Center Square",
+        "url": "https://www.thecentersquare.com/north_carolina/article_a97f99cd-4b88-48ca-8aa1-ca60a749d7bc.html",
+        "publishedAt": "2026-09-18",
+        "relevanceSummary": "Although primarily election coverage, the article provides statewide procedural deadlines: absentee voting began September 4, voter registration ends October 9, absentee-ballot requests are due October 20 at 5 p.m., and returned ballots must arrive by 7:30 p.m. on November 3.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-0otfx5z",
+        "headline": "Elon University Poll finds strong support for three constitutional amendments on the North Carolina November ballot",
+        "sourceName": "Elon University",
+        "url": "https://www.elon.edu/u/news/2026/09/17/elon-university-poll-finds-strong-support-for-three-constitutional-amendments-on-the-north-carolina-november-ballot/",
+        "publishedAt": "2026-09-17",
+        "relevanceSummary": "The article describes a proposed amendment requiring photo identification for all forms of voting and reiterates that absentee voters currently must submit a photo-ID copy or complete an ID Exception Form. The statewide amendment and existing requirement apply to NC-11 voters.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-0bjk7sa",
+        "headline": "Most NC voters support legalized pot and proposed amendments on November ballot",
+        "sourceName": "WRAL",
+        "url": "https://www.wral.com/news/nccapitol/elon-poll-most-nc-voters-support-tax-caps-voter-id-marijuana-legalization-september-2026/",
+        "publishedAt": "2026-09-17",
+        "relevanceSummary": "The article states that North Carolina requires valid photo ID for in-person voting and that absentee voters must provide a photo-ID copy or complete an ID Exception Form. Those voter-ID and mail-ballot procedures apply directly in NC-11.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-0n1mip1",
+        "headline": "Postal union airs ads in North Carolina defending mail-in voting ahead of midterm elections",
+        "sourceName": "WBTV",
+        "url": "https://www.wbtv.com/2026/09/17/postal-union-airs-ads-north-carolina-defending-mail-in-voting-ahead-midterm-elections/",
+        "publishedAt": "2026-09-17",
+        "relevanceSummary": "The article reports that North Carolina began mailing absentee ballots on September 4 and explains that any registered voter may request one online or by paper form. The statewide request deadline is October 20, 2026, which applies to NC-11 voters.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-05wbstp",
+        "headline": "Elections event addresses registration issues, influence of AI on voting process",
+        "sourceName": "NC Local",
+        "url": "https://nclocal.org/2026/09/17/elections-event-addresses-registration-issues-influence-of-ai-on-voting-process/",
+        "publishedAt": "2026-09-17",
+        "relevanceSummary": "The article explains North Carolina absentee-ballot return options, BallotTrax tracking beginning 30 days before the election, and the requirement that ballots reach the county board by 7:30 p.m. on Election Day. These statewide instructions are relevant to voters in NC-11 counties.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-0x243lr",
+        "headline": "GOP reshapes North Carolina’s voting rules ahead of key Senate race",
+        "sourceName": "CNN Politics",
+        "url": "https://www.cnn.com/2026/09/17/politics/north-carolina-senate-midterms-voting-rules-election-integrity",
+        "publishedAt": "2026-09-17",
+        "relevanceSummary": "The North Carolina State Board of Elections directed officials not to count absentee ballots returned with an unsealed inner envelope and restricted who may drop off most voters’ mail ballots. These statewide procedures apply to NC-11 voters, and deficient ballots may be canceled and reissued.",
+        "tag": "rule-change",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-16-nc11-auto",
-      "startedAt": "2026-09-16T09:23:01.862Z",
-      "completedAt": "2026-09-16T09:23:59.468Z",
+      "id": "run-2026-09-23-nc11-auto",
+      "startedAt": "2026-09-23T09:18:07.958Z",
+      "completedAt": "2026-09-23T09:18:41.688Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 6,
-      "updatesCreated": 6,
+      "sourcesChecked": 8,
+      "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-16 for NC-11. Sources checked: 6. LLM verifications: 5. 5 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-23 for NC-11. Sources checked: 8. LLM verifications: 5. 4 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-23T09:23:59.468Z",
+    "NEXT_REFRESH_AT": "2026-09-30T09:18:41.688Z",
     "WEEKLY_REPORT": {
       "id": "wr-nc11-2026-w28",
       "periodStart": "2026-07-09",
