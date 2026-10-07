@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-30",
-  "updatedAt": "2026-09-30T10:22:25.674Z",
-  "exportedAt": "2026-09-30T10:38:45.420Z",
+  "dataAsOf": "2026-10-07",
+  "updatedAt": "2026-10-07T10:57:59.054Z",
+  "exportedAt": "2026-10-07T11:14:03.167Z",
   "districtCode": "NC-11",
   "data": {
     "DISTRICT": {
@@ -88,7 +88,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-30",
+        "lastVerified": "2026-10-07",
         "confidence": "unconfirmed"
       },
       "src-ncsbe-polling-lookup": {
@@ -137,7 +137,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-30",
+        "lastVerified": "2026-10-07",
         "confidence": "unconfirmed"
       },
       "src-ncsbe-results": {
@@ -200,7 +200,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-30",
+        "lastVerified": "2026-10-07",
         "confidence": "unconfirmed",
         "notes": "Enacted October 2025; altered only NC-01 and NC-03 boundaries. NC-11 boundaries left UNCHANGED. NEEDS REVIEW: the enacted plan PDF was not independently re-fetched from ncleg.gov in this pass; boundary-stability claim corroborated via news reporting on the scope of SL 2025-95."
       },
@@ -239,7 +239,7 @@
         "sourceType": "civic-nonprofit",
         "hierarchyLevel": 5,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-30",
+        "lastVerified": "2026-10-07",
         "confidence": "unconfirmed"
       },
       "src-ballotwatch-nc": {
@@ -1444,20 +1444,100 @@
         "relevanceSummary": "The statewide article provides actionable deadlines for NC-11 voters: Oct. 9 registration, Oct. 20 absentee-ballot requests, Oct. 15–31 early voting, and Nov. 3 ballot receipt and polling rules. It also explains photo-ID and ID-copy or exception-form requirements for absentee ballots.",
         "tag": "deadline",
         "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-05xj1pq",
+        "headline": "Got a letter from N.C. election officials? What it means ahead of Nov. 3 election",
+        "sourceName": "WLOS",
+        "url": "https://wlos.com/news/local/got-a-letter-from-nc-election-officials-what-it-means-ahead-of-nov-3-election-midterms-republicans-democrats-voters-registration-early-voting-id-identification-cards?teaserSource=trending",
+        "publishedAt": "2026-10-05",
+        "relevanceSummary": "The Buncombe County-focused report says Election Services can issue a free voter photo ID, a resource directly available to many NC-11 voters. It also gives the October 15–31 early-voting period and the 7:30 p.m. November 3 deadline for completed absentee ballots to reach the county board.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-0g7r8fs",
+        "headline": "What to know for North Carolina’s Nov. 3 election: registration, early voting, mail voting",
+        "sourceName": "WCTI 12",
+        "url": "https://wcti12.com/news/local/what-to-know-for-north-carolinas-nov-3-election-registration-early-voting-mail-voting",
+        "publishedAt": "2026-10-05",
+        "relevanceSummary": "North Carolina voters must register by October 9 at 5 p.m.; early voting runs October 15–31, and absentee-ballot requests are due October 20 at 5 p.m. The article also directs voters to the State Board’s search tool for registration, polling-place, and sample-ballot information and notes the in-person photo-ID requirement.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-0sf8btj",
+        "headline": "Midterm Elections 2026: What NC voters need to know",
+        "sourceName": "ABC11 WTVD",
+        "url": "https://abc11.com/post/2026-north-carolina-midterm-election-key-dates-deadlines-voting-information/19907951/",
+        "publishedAt": "2026-10-05",
+        "relevanceSummary": "The statewide voter guide lists October 15 as the start of in-person early voting and October 20 at 5 p.m. as the absentee-ballot request deadline. It also explains that voters must show photo ID in person and may return mail ballots to their county board or an open early-voting site.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-0ybfj0a",
+        "headline": "N.C.'s voter registration deadline nearing",
+        "sourceName": "Spectrum News 1 North Carolina",
+        "url": "https://spectrumlocalnews.com/nc/charlotte/news/2026/10/04/nc-voter-registration-deadline",
+        "publishedAt": "2026-10-04",
+        "relevanceSummary": "The article reports that North Carolina registration applications must reach a county elections board by 5 p.m. October 9. It also confirms that in-person early voting begins October 15 and continues through the end of October, information applicable statewide to NC-11 voters.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-01wi1g6",
+        "headline": "Voter registration deadline in North Carolina is approaching",
+        "sourceName": "WLOS",
+        "url": "https://wlos.com/news/local/voter-registration-deadline-north-carolina-wnc-approaching-election-voting-poll-ballot-midterm-november-2026-register-vote-politics-government-democrat-republican",
+        "publishedAt": "2026-10-03",
+        "relevanceSummary": "The western North Carolina report explains that voters who miss the October 9 registration deadline can use same-day registration during early voting, subject to proof of citizenship, residence, and acceptable photo ID. It also states that absentee ballots must arrive by 7:30 p.m. on November 3 and may be returned to the county board or an early-voting site during early voting.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-0qoqc62",
+        "headline": "Regular Voter Registration Deadline Approaching for 2026 General Election",
+        "sourceName": "North Carolina State Board of Elections",
+        "url": "https://www.ncsbe.gov/news/press-releases/2026/10/02/regular-voter-registration-deadline-approaching-2026-general-election",
+        "publishedAt": "2026-10-02",
+        "relevanceSummary": "North Carolina’s regular voter-registration deadline is October 9 at 5 p.m. Voters who miss it may register and vote during early voting from October 15 through October 31 at any early-voting site in their county, with proof of eligibility, residence, and acceptable photo ID.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-028x0q0",
+        "headline": "Deadline to register to vote is fast approaching in North Carolina",
+        "sourceName": "WBTV",
+        "url": "https://www.wbtv.com/2026/10/01/deadline-register-vote-is-fast-approaching-north-carolina-heres-how-register/",
+        "publishedAt": "2026-10-01",
+        "relevanceSummary": "The statewide report describes same-day registration at early-voting sites from October 15–31 and says voters can vote with or without photo ID, using an ID Exception Form if they cannot provide acceptable identification. These procedures apply to NC-11 voters.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-0uiibwl",
+        "headline": "Elections 2026: Voting in the November Election",
+        "sourceName": "Autism Society of North Carolina",
+        "url": "https://www.autismsociety-nc.org/elections-2026-voting-in-the-november-election/",
+        "publishedAt": "2026-09-30",
+        "relevanceSummary": "This statewide voter guide identifies acceptable photo-ID examples, including an NC driver’s license, NC DMV ID, U.S. passport, or free county voter ID, and explains the ID Exception Form. For absentee ballots, it notes the requirement to include an acceptable-ID copy or an exception form, along with two adult witnesses or a notary.",
+        "tag": "voter-id",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-30-nc11-auto",
-      "startedAt": "2026-09-30T10:21:58.401Z",
-      "completedAt": "2026-09-30T10:22:25.674Z",
+      "id": "run-2026-10-07-nc11-auto",
+      "startedAt": "2026-10-07T10:57:31.151Z",
+      "completedAt": "2026-10-07T10:57:59.054Z",
       "triggerType": "scheduled",
       "sourcesChecked": 8,
       "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-30 for NC-11. Sources checked: 8. LLM verifications: 5. 5 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-10-07 for NC-11. Sources checked: 8. LLM verifications: 5. 4 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-10-07T10:22:25.674Z",
+    "NEXT_REFRESH_AT": "2026-10-14T10:57:59.054Z",
     "WEEKLY_REPORT": {
       "id": "wr-nc11-2026-w28",
       "periodStart": "2026-07-09",
