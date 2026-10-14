@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-10-07",
-  "updatedAt": "2026-10-07T10:57:59.054Z",
-  "exportedAt": "2026-10-07T11:14:03.167Z",
+  "dataAsOf": "2026-10-14",
+  "updatedAt": "2026-10-14T09:21:22.353Z",
+  "exportedAt": "2026-10-14T09:33:35.545Z",
   "districtCode": "NC-11",
   "data": {
     "DISTRICT": {
@@ -88,7 +88,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-10-07",
+        "lastVerified": "2026-10-14",
         "confidence": "unconfirmed"
       },
       "src-ncsbe-polling-lookup": {
@@ -137,7 +137,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-10-07",
+        "lastVerified": "2026-10-14",
         "confidence": "unconfirmed"
       },
       "src-ncsbe-results": {
@@ -200,7 +200,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-10-07",
+        "lastVerified": "2026-10-14",
         "confidence": "unconfirmed",
         "notes": "Enacted October 2025; altered only NC-01 and NC-03 boundaries. NC-11 boundaries left UNCHANGED. NEEDS REVIEW: the enacted plan PDF was not independently re-fetched from ncleg.gov in this pass; boundary-stability claim corroborated via news reporting on the scope of SL 2025-95."
       },
@@ -239,7 +239,7 @@
         "sourceType": "civic-nonprofit",
         "hierarchyLevel": 5,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-10-07",
+        "lastVerified": "2026-10-14",
         "confidence": "unconfirmed"
       },
       "src-ballotwatch-nc": {
@@ -1524,20 +1524,100 @@
         "relevanceSummary": "This statewide voter guide identifies acceptable photo-ID examples, including an NC driver’s license, NC DMV ID, U.S. passport, or free county voter ID, and explains the ID Exception Form. For absentee ballots, it notes the requirement to include an acceptable-ID copy or an exception form, along with two adult witnesses or a notary.",
         "tag": "voter-id",
         "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-0ludl26",
+        "headline": "Three weeks out from the November election, write-in candidate and voter participation deadlines approach",
+        "sourceName": "Ballotpedia News",
+        "url": "https://news.ballotpedia.org/2026/10/13/three-weeks-out-from-the-november-election-write-in-candidate-and-voter-participation-deadlines-approach/",
+        "publishedAt": "2026-10-13",
+        "relevanceSummary": "The article identifies Oct. 20 as North Carolina's deadline to request an absentee/mail ballot for the Nov. 3 general election. That statewide deadline applies to eligible NC-11 voters who plan to vote by mail.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-0v8zzoy",
+        "headline": "North Carolina midterm elections 2026: Where to register, find your polling place and cast your vote",
+        "sourceName": "The Economic Times",
+        "url": "https://economictimes.com/world/us/north-carolina-midterm-elections-2026-where-to-register-find-your-polling-place-and-cast-your-vote/articleshow/134914085.cms",
+        "publishedAt": "2026-10-13",
+        "relevanceSummary": "This statewide voter guide directs North Carolina voters to verify registration, locate polling places, and view sample ballots, while summarizing Election Day hours and accepted photo IDs. The information is directly useful to NC-11 voters.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-0m1qj0f",
+        "headline": "In-person early voting for North Carolina's 2026 general election starts Oct. 15",
+        "sourceName": "WCTI",
+        "url": "https://wcti12.com/news/local/in-person-early-voting-for-north-carolinas-2026-general-election-starts-oct-15",
+        "publishedAt": "2026-10-13",
+        "relevanceSummary": "The statewide report explains that NC voters may vote at any early-voting site in their county, provides the Oct. 15–31 schedule, and describes same-day registration requirements. Those rules govern NC-11 voters and its counties.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-0qxn548",
+        "headline": "Early voting is starting in NC. What you need to know to cast your 2026 ballot",
+        "sourceName": "The Charlotte Observer",
+        "url": "https://www.charlotteobserver.com/news/politics-government/article317588654.html",
+        "publishedAt": "2026-10-13",
+        "relevanceSummary": "The article outlines North Carolina early-voting dates, sample-ballot access, accepted photo IDs, provisional-ballot procedures, and the requirement to use an assigned precinct on Election Day. The statewide rules apply to NC-11 voters.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-0jqij30",
+        "headline": "Early voting begins soon in NC. When, where you can vote in Western NC",
+        "sourceName": "Asheville Citizen-Times",
+        "url": "https://www.citizen-times.com/story/news/politics/elections/2026/10/13/when-does-early-voting-start-in-north-carolina-dates-locations/92232278007/",
+        "publishedAt": "2026-10-13",
+        "relevanceSummary": "North Carolina's early-voting period runs Oct. 15–31, with hours and locations relevant to voters in NC-11's western counties. The article also explains accepted photo IDs and the ID Exception Form available to voters who lack identification.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-0iujhkm",
+        "headline": "Early voting starts Oct. 15: Here is where to cast a ballot",
+        "sourceName": "Port City Daily",
+        "url": "https://portcitydaily.com/local-news/2026/10/12/early-voting-starts-oct-15-here-is-where-to-cast-a-ballot/",
+        "publishedAt": "2026-10-12",
+        "relevanceSummary": "The North Carolina-focused guide explains the statewide early-voting and Election Day schedule, assigned-precinct requirement, and photo-ID exception process. These procedures apply to voters in NC-11.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-0ip09kg",
+        "headline": "10 Things for In-Person Early Voters to Know in North Carolina",
+        "sourceName": "Cumberland County Board of Elections",
+        "url": "https://www.cumberlandcountync.gov/departments/election-group/elections/news/2026/10/12/10-things-for-in-person-early-voters-to-know-in-north-carolina",
+        "publishedAt": "2026-10-12",
+        "relevanceSummary": "The county election office summarizes statewide early-voting procedures, including accepted photo identification, provisional ballots, and the deadline for presenting ID after voting. The guidance is applicable to NC-11 voters despite originating in another county.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-0juoinu",
+        "headline": "Early in-person voting begins this week in North Carolina for November midterms: What to know",
+        "sourceName": "WBTV",
+        "url": "https://www.wbtv.com/2026/10/12/early-in-person-voting-begins-north-carolina-this-week-what-know/",
+        "publishedAt": "2026-10-12",
+        "relevanceSummary": "The statewide guide says early voting begins Oct. 15 and ends Oct. 31, and explains that voters without acceptable photo ID can still vote by completing an ID Exception Form. These procedures apply directly to NC-11 voters.",
+        "tag": "voter-id",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-10-07-nc11-auto",
-      "startedAt": "2026-10-07T10:57:31.151Z",
-      "completedAt": "2026-10-07T10:57:59.054Z",
+      "id": "run-2026-10-14-nc11-auto",
+      "startedAt": "2026-10-14T09:21:01.830Z",
+      "completedAt": "2026-10-14T09:21:22.353Z",
       "triggerType": "scheduled",
       "sourcesChecked": 8,
       "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-10-07 for NC-11. Sources checked: 8. LLM verifications: 5. 4 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-10-14 for NC-11. Sources checked: 8. LLM verifications: 5. 4 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-10-14T10:57:59.054Z",
+    "NEXT_REFRESH_AT": "2026-10-21T09:21:22.353Z",
     "WEEKLY_REPORT": {
       "id": "wr-nc11-2026-w28",
       "periodStart": "2026-07-09",
