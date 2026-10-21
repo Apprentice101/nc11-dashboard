@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-10-14",
-  "updatedAt": "2026-10-14T09:21:22.353Z",
-  "exportedAt": "2026-10-14T09:33:35.545Z",
+  "dataAsOf": "2026-10-21",
+  "updatedAt": "2026-10-21T09:11:40.921Z",
+  "exportedAt": "2026-10-21T09:23:28.066Z",
   "districtCode": "NC-11",
   "data": {
     "DISTRICT": {
@@ -88,7 +88,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-10-14",
+        "lastVerified": "2026-10-21",
         "confidence": "unconfirmed"
       },
       "src-ncsbe-polling-lookup": {
@@ -137,7 +137,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-10-14",
+        "lastVerified": "2026-10-21",
         "confidence": "unconfirmed"
       },
       "src-ncsbe-results": {
@@ -200,7 +200,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-10-14",
+        "lastVerified": "2026-10-21",
         "confidence": "unconfirmed",
         "notes": "Enacted October 2025; altered only NC-01 and NC-03 boundaries. NC-11 boundaries left UNCHANGED. NEEDS REVIEW: the enacted plan PDF was not independently re-fetched from ncleg.gov in this pass; boundary-stability claim corroborated via news reporting on the scope of SL 2025-95."
       },
@@ -226,7 +226,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-16",
+        "lastVerified": "2026-10-21",
         "confidence": "unconfirmed",
         "notes": "Lowered the second-primary (runoff) trigger threshold from 40% to 30% of the vote."
       },
@@ -1604,20 +1604,90 @@
         "relevanceSummary": "The statewide guide says early voting begins Oct. 15 and ends Oct. 31, and explains that voters without acceptable photo ID can still vote by completing an ID Exception Form. These procedures apply directly to NC-11 voters.",
         "tag": "voter-id",
         "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-0vy1umr",
+        "headline": "NC mail-in ballot requests plunge 33% as deadline looms. What's behind the decline?",
+        "sourceName": "WRAL",
+        "url": "https://www.wral.com/news/local/nc-mail-in-ballot-requests-plunge-as-deadline-looms-whats-behind-the-decline-oct-2026/",
+        "publishedAt": "2026-10-19",
+        "relevanceSummary": "The report highlights North Carolina's absentee-ballot request deadline, military and overseas exceptions, ballot tracking, and the requirement that completed mail ballots reach the county board by 7:30 p.m. on Election Day.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-0q0q1eo",
+        "headline": "Early voting in NC in 2026. Everything you need to know.",
+        "sourceName": "Carolina Public Press",
+        "url": "https://carolinapublicpress.org/82640/early-voting-in-nc-in-2026-everything-you-need-to-know/",
+        "publishedAt": "2026-10-19",
+        "relevanceSummary": "The statewide guide covers early-voting dates and hours, acceptable photo IDs, and how to find sample ballots through the State Board of Elections voter-search tool. These procedures apply to voters in NC-11 counties.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-0i3sr96",
+        "headline": "Voting in NC's 2026 midterm election: What voters need to know",
+        "sourceName": "WCNC",
+        "url": "https://www.wcnc.com/article/news/politics/elections/early-voting-in-north-carolina-midterms-2026/275-2aaa63e7-a405-481c-a1fa-cc207297baca",
+        "publishedAt": "2026-10-15",
+        "relevanceSummary": "The statewide guide covers early-voting locations and hours, same-day registration, acceptable photo ID, Election Day polling-place rules, and the State Board of Elections voter-search tool for registration and polling information.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-0tq7mmm",
+        "headline": "Early in-person voting begins in North Carolina for November midterms: What to know",
+        "sourceName": "WBTV",
+        "url": "https://www.wbtv.com/2026/10/15/early-in-person-voting-begins-north-carolina-november-midterms-what-know/",
+        "publishedAt": "2026-10-15",
+        "relevanceSummary": "The statewide voter guide lists acceptable photo IDs and explains that voters without ID may use an exception form. It also notes that absentee voters can use an ID-exception form with their ballots.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-0ulo6id",
+        "headline": "Early voting kicks off across N.C. with major races, local decisions on ballots",
+        "sourceName": "WLOS",
+        "url": "https://wlos.com/news/local/story/early-voting-kicks-off-across-nc-with-major-races-and-local-decisions-on-the-ballot-us-senate-roy-cooper-michael-whatley-chuck-edwards-jamie-ager-jennifer-balkcom-congressional-nc-11-district-photo-id",
+        "publishedAt": "2026-10-15",
+        "relevanceSummary": "This Western North Carolina report specifically discusses the NC-11 congressional ballot and explains early voting, same-day registration, proof-of-residence requirements, and photo-ID rules with available exceptions.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-0faqqnf",
+        "headline": "Early voting starts in NC. Here's what voters need to know",
+        "sourceName": "WFAE",
+        "url": "https://www.wfae.org/text/politics/2026-10-15/early-voting-starts-in-nc-heres-what-voters-need-to-know",
+        "publishedAt": "2026-10-15",
+        "relevanceSummary": "This statewide report explains that absentee ballots must arrive by 7:30 p.m. on Election Day, generally require two witnesses or a notary and an acceptable-ID photocopy, and allow an ID-exception form. It also describes in-person provisional-ballot procedures for voters without ID.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-nc11-0h3vw7z",
+        "headline": "Voting early? What Western North Carolina voters should know as polls open",
+        "sourceName": "Blue Ridge Public Radio",
+        "url": "https://www.bpr.org/politics-government/2026-10-15/voting-early-what-western-north-carolina-voters-should-know-as-polls-open",
+        "publishedAt": "2026-10-15",
+        "relevanceSummary": "This Western North Carolina guide applies directly to NC-11 voters. It explains acceptable photo ID, free IDs through county election offices, provisional ballots and ID exceptions, and absentee-ballot ID-copy requirements and deadlines.",
+        "tag": "voter-id",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-10-14-nc11-auto",
-      "startedAt": "2026-10-14T09:21:01.830Z",
-      "completedAt": "2026-10-14T09:21:22.353Z",
+      "id": "run-2026-10-21-nc11-auto",
+      "startedAt": "2026-10-21T09:11:22.053Z",
+      "completedAt": "2026-10-21T09:11:40.921Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 8,
-      "updatesCreated": 8,
+      "sourcesChecked": 7,
+      "updatesCreated": 7,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-10-14 for NC-11. Sources checked: 8. LLM verifications: 5. 4 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-10-21 for NC-11. Sources checked: 7. LLM verifications: 5. 4 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-10-21T09:21:22.353Z",
+    "NEXT_REFRESH_AT": "2026-10-28T09:11:40.921Z",
     "WEEKLY_REPORT": {
       "id": "wr-nc11-2026-w28",
       "periodStart": "2026-07-09",
