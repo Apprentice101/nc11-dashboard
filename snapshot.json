@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-10-21",
-  "updatedAt": "2026-10-21T09:11:40.921Z",
-  "exportedAt": "2026-10-21T09:23:28.066Z",
+  "dataAsOf": "2026-10-28",
+  "updatedAt": "2026-10-28T10:20:03.465Z",
+  "exportedAt": "2026-10-28T10:25:22.577Z",
   "districtCode": "NC-11",
   "data": {
     "DISTRICT": {
@@ -88,7 +88,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-10-21",
+        "lastVerified": "2026-10-28",
         "confidence": "unconfirmed"
       },
       "src-ncsbe-polling-lookup": {
@@ -137,7 +137,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-10-21",
+        "lastVerified": "2026-10-28",
         "confidence": "unconfirmed"
       },
       "src-ncsbe-results": {
@@ -200,7 +200,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-10-21",
+        "lastVerified": "2026-10-28",
         "confidence": "unconfirmed",
         "notes": "Enacted October 2025; altered only NC-01 and NC-03 boundaries. NC-11 boundaries left UNCHANGED. NEEDS REVIEW: the enacted plan PDF was not independently re-fetched from ncleg.gov in this pass; boundary-stability claim corroborated via news reporting on the scope of SL 2025-95."
       },
@@ -239,7 +239,7 @@
         "sourceType": "civic-nonprofit",
         "hierarchyLevel": 5,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-10-14",
+        "lastVerified": "2026-10-28",
         "confidence": "unconfirmed"
       },
       "src-ballotwatch-nc": {
@@ -1677,17 +1677,17 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-10-21-nc11-auto",
-      "startedAt": "2026-10-21T09:11:22.053Z",
-      "completedAt": "2026-10-21T09:11:40.921Z",
+      "id": "run-2026-10-28-nc11-auto",
+      "startedAt": "2026-10-28T10:20:02.265Z",
+      "completedAt": "2026-10-28T10:20:03.465Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 7,
-      "updatesCreated": 7,
+      "sourcesChecked": 8,
+      "updatesCreated": 0,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-10-21 for NC-11. Sources checked: 7. LLM verifications: 5. 4 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-10-28 for NC-11. Sources checked: 8. LLM verifications: 6. 4 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-10-28T09:11:40.921Z",
+    "NEXT_REFRESH_AT": "2026-11-04T10:20:03.465Z",
     "WEEKLY_REPORT": {
       "id": "wr-nc11-2026-w28",
       "periodStart": "2026-07-09",
